@@ -1,20 +1,20 @@
-import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+﻿import type { Metadata } from "next";
+import { Noto_Sans_KR, Space_Grotesk } from "next/font/google";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const spaceGrotesk = Space_Grotesk({
+  variable: "--font-display",
   subsets: ["latin"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const notoSansKr = Noto_Sans_KR({
+  variable: "--font-body",
+  subsets: ["korean", "latin"],
 });
 
 export const metadata: Metadata = {
   title: "Sahmyook Navigator",
-  description: "Campus navigation starter",
+  description: "Campus wayfinding experience",
 };
 
 export default function RootLayout({
@@ -23,8 +23,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+    <html lang="ko">
+      <body className={`${spaceGrotesk.variable} ${notoSansKr.variable}`}>
         {children}
       </body>
     </html>
