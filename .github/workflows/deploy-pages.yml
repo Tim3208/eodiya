@@ -30,7 +30,16 @@ jobs:
       - name: Install deps
         run: npm ci
 
+      - name: Validate Kakao key
+        run: |
+          if [ -z "${{ secrets.VITE_KAKAO_JS_KEY }}" ]; then
+            echo "Missing repository secret: VITE_KAKAO_JS_KEY"
+            exit 1
+          fi
+
       - name: Build
+        env:
+          VITE_KAKAO_JS_KEY: ${{ secrets.VITE_KAKAO_JS_KEY }}
         run: npm run build
 
       - name: Setup Pages
