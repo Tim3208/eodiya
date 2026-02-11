@@ -1,0 +1,3499 @@
+{
+  "generatedAt": "2026-02-11T00:18:47.439Z",
+  "note": "building entries include map coordinates when available; verify and adjust before production use.",
+  "places": [
+    {
+      "id": "백주년기념관",
+      "name": "백주년기념관",
+      "building": "백주년기념관",
+      "category": "건물",
+      "aliases": [
+        "백주년기념관"
+      ],
+      "description": "1층: 총무과(건축·구매팀, 인사팀), 입학처, 대학원, 재무처, 우편물취급소 | 2층: 총장실, 부총장실, 기획처, 사무처, 교수실, 소회의실 | 3층: 대외협력처, 대회의실, 국제교육관 연결통로 | 4층: SU - MVP강의실, 홍보팀(401호), 산학협력단, 연구처, 문서보관실",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "총무과(건축·구매팀, 인사팀)",
+            "입학처",
+            "대학원",
+            "재무처",
+            "우편물취급소"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "총장실",
+            "부총장실",
+            "기획처",
+            "사무처",
+            "교수실",
+            "소회의실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "대외협력처",
+            "대회의실",
+            "국제교육관 연결통로"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "SU - MVP강의실",
+            "홍보팀(401호)",
+            "산학협력단",
+            "연구처",
+            "문서보관실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64282834438075,
+        "lng": 127.10520761511863
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "백주년기념관-1f",
+      "name": "백주년기념관 1층",
+      "building": "백주년기념관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "백주년기념관",
+        "1층"
+      ],
+      "description": "총무과(건축·구매팀, 인사팀), 입학처, 대학원, 재무처, 우편물취급소",
+      "floorItems": [
+        "총무과(건축·구매팀, 인사팀)",
+        "입학처",
+        "대학원",
+        "재무처",
+        "우편물취급소"
+      ],
+      "point": {
+        "lat": 37.64282834438075,
+        "lng": 127.10520761511863
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "백주년기념관-2f",
+      "name": "백주년기념관 2층",
+      "building": "백주년기념관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "백주년기념관",
+        "2층"
+      ],
+      "description": "총장실, 부총장실, 기획처, 사무처, 교수실, 소회의실",
+      "floorItems": [
+        "총장실",
+        "부총장실",
+        "기획처",
+        "사무처",
+        "교수실",
+        "소회의실"
+      ],
+      "point": {
+        "lat": 37.64282834438075,
+        "lng": 127.10520761511863
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "백주년기념관-3f",
+      "name": "백주년기념관 3층",
+      "building": "백주년기념관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "백주년기념관",
+        "3층"
+      ],
+      "description": "대외협력처, 대회의실, 국제교육관 연결통로",
+      "floorItems": [
+        "대외협력처",
+        "대회의실",
+        "국제교육관 연결통로"
+      ],
+      "point": {
+        "lat": 37.64282834438075,
+        "lng": 127.10520761511863
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "백주년기념관-4f",
+      "name": "백주년기념관 4층",
+      "building": "백주년기념관",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "백주년기념관",
+        "4층"
+      ],
+      "description": "SU - MVP강의실, 홍보팀(401호), 산학협력단, 연구처, 문서보관실",
+      "floorItems": [
+        "SU - MVP강의실",
+        "홍보팀(401호)",
+        "산학협력단",
+        "연구처",
+        "문서보관실"
+      ],
+      "point": {
+        "lat": 37.64282834438075,
+        "lng": 127.10520761511863
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "신학관",
+      "name": "신학관",
+      "building": "신학관",
+      "category": "건물",
+      "aliases": [
+        "신학관"
+      ],
+      "description": "지하 1층: 침례예식장, 세탁실, 강의실 | 1층: 신학과 사무실(108호), 대학원 교학팀, 세계복지지원단, 신학과학문제연구소, 대학원 세미나실, 수업행동분석실 | 2층: 신학과 학회실, 동문회 사무실 | 3층: 선교사회연구소, 신학연구소 | 4층: 예언의신연구원, 목회연구소, 대학원 세미나실, 코이노니아룸, 신학대학원 원우회실, 배창현 기념채플 영성훈련실",
+      "floors": [
+        {
+          "floor": "B1",
+          "label": "지하 1층",
+          "items": [
+            "침례예식장",
+            "세탁실",
+            "강의실"
+          ]
+        },
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "신학과 사무실(108호)",
+            "대학원 교학팀",
+            "세계복지지원단",
+            "신학과학문제연구소",
+            "대학원 세미나실",
+            "수업행동분석실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "신학과 학회실",
+            "동문회 사무실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "선교사회연구소",
+            "신학연구소"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "예언의신연구원",
+            "목회연구소",
+            "대학원 세미나실",
+            "코이노니아룸",
+            "신학대학원 원우회실",
+            "배창현 기념채플 영성훈련실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.642314215176825,
+        "lng": 127.10446265602867
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "신학관-b1",
+      "name": "신학관 지하 1층",
+      "building": "신학관",
+      "floor": "지하 1층",
+      "category": "건물 내부",
+      "aliases": [
+        "신학관",
+        "지하 1층"
+      ],
+      "description": "침례예식장, 세탁실, 강의실",
+      "floorItems": [
+        "침례예식장",
+        "세탁실",
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.642314215176825,
+        "lng": 127.10446265602867
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "신학관-1f",
+      "name": "신학관 1층",
+      "building": "신학관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "신학관",
+        "1층"
+      ],
+      "description": "신학과 사무실(108호), 대학원 교학팀, 세계복지지원단, 신학과학문제연구소, 대학원 세미나실, 수업행동분석실",
+      "floorItems": [
+        "신학과 사무실(108호)",
+        "대학원 교학팀",
+        "세계복지지원단",
+        "신학과학문제연구소",
+        "대학원 세미나실",
+        "수업행동분석실"
+      ],
+      "point": {
+        "lat": 37.642314215176825,
+        "lng": 127.10446265602867
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "신학관-2f",
+      "name": "신학관 2층",
+      "building": "신학관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "신학관",
+        "2층"
+      ],
+      "description": "신학과 학회실, 동문회 사무실",
+      "floorItems": [
+        "신학과 학회실",
+        "동문회 사무실"
+      ],
+      "point": {
+        "lat": 37.642314215176825,
+        "lng": 127.10446265602867
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "신학관-3f",
+      "name": "신학관 3층",
+      "building": "신학관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "신학관",
+        "3층"
+      ],
+      "description": "선교사회연구소, 신학연구소",
+      "floorItems": [
+        "선교사회연구소",
+        "신학연구소"
+      ],
+      "point": {
+        "lat": 37.642314215176825,
+        "lng": 127.10446265602867
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "신학관-4f",
+      "name": "신학관 4층",
+      "building": "신학관",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "신학관",
+        "4층"
+      ],
+      "description": "예언의신연구원, 목회연구소, 대학원 세미나실, 코이노니아룸, 신학대학원 원우회실, 배창현 기념채플 영성훈련실",
+      "floorItems": [
+        "예언의신연구원",
+        "목회연구소",
+        "대학원 세미나실",
+        "코이노니아룸",
+        "신학대학원 원우회실",
+        "배창현 기념채플 영성훈련실"
+      ],
+      "point": {
+        "lat": 37.642314215176825,
+        "lng": 127.10446265602867
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "스미스관",
+      "name": "스미스관",
+      "building": "스미스관",
+      "category": "건물",
+      "aliases": [
+        "스미스관"
+      ],
+      "description": "1층: 시설관리과, 고시반",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "시설관리과",
+            "고시반"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64250530043075,
+        "lng": 127.104274701002
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "스미스관-1f",
+      "name": "스미스관 1층",
+      "building": "스미스관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "스미스관",
+        "1층"
+      ],
+      "description": "시설관리과, 고시반",
+      "floorItems": [
+        "시설관리과",
+        "고시반"
+      ],
+      "point": {
+        "lat": 37.64250530043075,
+        "lng": 127.104274701002
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "국제교육관",
+      "name": "국제교육관",
+      "building": "국제교육관",
+      "category": "건물",
+      "aliases": [
+        "국제교육관"
+      ],
+      "description": "1층: 강의실, 상담심리학과 사무실(102호) | 2층: 강의실 | 3층: 장근청홀(입구) | 4층: 장근청홀",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "강의실",
+            "상담심리학과 사무실(102호)"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "강의실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "장근청홀(입구)"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "장근청홀"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64313421517682,
+        "lng": 127.10546265602868
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "국제교육관-1f",
+      "name": "국제교육관 1층",
+      "building": "국제교육관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "국제교육관",
+        "1층"
+      ],
+      "description": "강의실, 상담심리학과 사무실(102호)",
+      "floorItems": [
+        "강의실",
+        "상담심리학과 사무실(102호)"
+      ],
+      "point": {
+        "lat": 37.64313421517682,
+        "lng": 127.10546265602868
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "국제교육관-2f",
+      "name": "국제교육관 2층",
+      "building": "국제교육관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "국제교육관",
+        "2층"
+      ],
+      "description": "강의실",
+      "floorItems": [
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.64313421517682,
+        "lng": 127.10546265602868
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "국제교육관-3f",
+      "name": "국제교육관 3층",
+      "building": "국제교육관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "국제교육관",
+        "3층"
+      ],
+      "description": "장근청홀(입구)",
+      "floorItems": [
+        "장근청홀(입구)"
+      ],
+      "point": {
+        "lat": 37.64313421517682,
+        "lng": 127.10546265602868
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "국제교육관-4f",
+      "name": "국제교육관 4층",
+      "building": "국제교육관",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "국제교육관",
+        "4층"
+      ],
+      "description": "장근청홀",
+      "floorItems": [
+        "장근청홀"
+      ],
+      "point": {
+        "lat": 37.64313421517682,
+        "lng": 127.10546265602868
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "say",
+      "name": "SAY",
+      "building": "SAY",
+      "category": "건물",
+      "aliases": [
+        "SAY"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64346614919671,
+        "lng": 127.1041211007446
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "사무엘관",
+      "name": "사무엘관",
+      "building": "사무엘관",
+      "category": "건물",
+      "aliases": [
+        "사무엘관"
+      ],
+      "description": "1층: 강의실, 사회복지학과 사무실(106호) | 2층: 강의실 | 3층: 영어영문학부 사무실(306호), 강의실, 영어영문학부 멀티미디어룸, LAB TOEFL CENTER",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "강의실",
+            "사회복지학과 사무실(106호)"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "강의실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "영어영문학부 사무실(306호)",
+            "강의실",
+            "영어영문학부 멀티미디어룸",
+            "LAB TOEFL CENTER"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64326614919671,
+        "lng": 127.10382811007446
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "사무엘관-1f",
+      "name": "사무엘관 1층",
+      "building": "사무엘관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "사무엘관",
+        "1층"
+      ],
+      "description": "강의실, 사회복지학과 사무실(106호)",
+      "floorItems": [
+        "강의실",
+        "사회복지학과 사무실(106호)"
+      ],
+      "point": {
+        "lat": 37.64326614919671,
+        "lng": 127.10382811007446
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "사무엘관-2f",
+      "name": "사무엘관 2층",
+      "building": "사무엘관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "사무엘관",
+        "2층"
+      ],
+      "description": "강의실",
+      "floorItems": [
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.64326614919671,
+        "lng": 127.10382811007446
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "사무엘관-3f",
+      "name": "사무엘관 3층",
+      "building": "사무엘관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "사무엘관",
+        "3층"
+      ],
+      "description": "영어영문학부 사무실(306호), 강의실, 영어영문학부 멀티미디어룸, LAB TOEFL CENTER",
+      "floorItems": [
+        "영어영문학부 사무실(306호)",
+        "강의실",
+        "영어영문학부 멀티미디어룸",
+        "LAB TOEFL CENTER"
+      ],
+      "point": {
+        "lat": 37.64326614919671,
+        "lng": 127.10382811007446
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "에덴관-여학생생활관",
+      "name": "에덴관(여학생생활관)",
+      "building": "에덴관(여학생생활관)",
+      "category": "건물",
+      "aliases": [
+        "에덴관(여학생생활관)"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.6432867295515,
+        "lng": 127.10272364769017
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "외국인교수사택",
+      "name": "외국인교수사택",
+      "building": "외국인교수사택",
+      "category": "건물",
+      "aliases": [
+        "외국인교수사택"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64255746952412,
+        "lng": 127.10210512942378
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "로뎀관",
+      "name": "로뎀관",
+      "building": "로뎀관",
+      "category": "건물",
+      "aliases": [
+        "로뎀관"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.6431700008301,
+        "lng": 127.10208625964276
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "브니엘관",
+      "name": "브니엘관",
+      "building": "브니엘관",
+      "category": "건물",
+      "aliases": [
+        "브니엘관"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64368,
+        "lng": 127.10228
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다목적관",
+      "name": "다목적관",
+      "building": "다목적관",
+      "category": "건물",
+      "aliases": [
+        "다목적관"
+      ],
+      "description": "1층: 이종순 기념홀, SAY | 2층: 대학교회, 교회사무실, 목회실, Lesson실, 연습실",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "이종순 기념홀",
+            "SAY"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "대학교회",
+            "교회사무실",
+            "목회실",
+            "Lesson실",
+            "연습실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64366,
+        "lng": 127.10298
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다목적관-1f",
+      "name": "다목적관 1층",
+      "building": "다목적관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "다목적관",
+        "1층"
+      ],
+      "description": "이종순 기념홀, SAY",
+      "floorItems": [
+        "이종순 기념홀",
+        "SAY"
+      ],
+      "point": {
+        "lat": 37.64366,
+        "lng": 127.10298
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다목적관-2f",
+      "name": "다목적관 2층",
+      "building": "다목적관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "다목적관",
+        "2층"
+      ],
+      "description": "대학교회, 교회사무실, 목회실, Lesson실, 연습실",
+      "floorItems": [
+        "대학교회",
+        "교회사무실",
+        "목회실",
+        "Lesson실",
+        "연습실"
+      ],
+      "point": {
+        "lat": 37.64366,
+        "lng": 127.10298
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "대학교회",
+      "name": "대학교회",
+      "building": "대학교회",
+      "category": "건물",
+      "aliases": [
+        "대학교회"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64386,
+        "lng": 127.10268
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "살렘관",
+      "name": "살렘관",
+      "building": "살렘관",
+      "category": "건물",
+      "aliases": [
+        "살렘관"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64444,
+        "lng": 127.103
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "생활관식당-교직원식당",
+      "name": "생활관식당/교직원식당",
+      "building": "생활관식당/교직원식당",
+      "category": "건물",
+      "aliases": [
+        "생활관식당/교직원식당"
+      ],
+      "description": "1층: 생활관식당 | 2층: 교직원식당",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "생활관식당"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "교직원식당"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64408,
+        "lng": 127.10358
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "생활관식당-교직원식당-1f",
+      "name": "생활관식당/교직원식당 1층",
+      "building": "생활관식당/교직원식당",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "생활관식당/교직원식당",
+        "1층"
+      ],
+      "description": "생활관식당",
+      "floorItems": [
+        "생활관식당"
+      ],
+      "point": {
+        "lat": 37.64408,
+        "lng": 127.10358
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "생활관식당-교직원식당-2f",
+      "name": "생활관식당/교직원식당 2층",
+      "building": "생활관식당/교직원식당",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "생활관식당/교직원식당",
+        "2층"
+      ],
+      "description": "교직원식당",
+      "floorItems": [
+        "교직원식당"
+      ],
+      "point": {
+        "lat": 37.64408,
+        "lng": 127.10358
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "시온관-남학생생활관",
+      "name": "시온관(남학생생활관)",
+      "building": "시온관(남학생생활관)",
+      "category": "건물",
+      "aliases": [
+        "시온관(남학생생활관)"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64416,
+        "lng": 127.10424
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "음악관",
+      "name": "음악관",
+      "building": "음악관",
+      "category": "건물",
+      "aliases": [
+        "음악관"
+      ],
+      "description": "1층: 음악학과 사무실(108호), 멀티미디어강의실, 합창합주실, 타악기실, 피아노앙상블실 | 2층: 실내악실, 피아노듀오실, 컴퓨터음악강의실 | 3층: 레슨실, 강의실",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "음악학과 사무실(108호)",
+            "멀티미디어강의실",
+            "합창합주실",
+            "타악기실",
+            "피아노앙상블실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "실내악실",
+            "피아노듀오실",
+            "컴퓨터음악강의실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "레슨실",
+            "강의실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64378,
+        "lng": 127.10467
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "음악관-1f",
+      "name": "음악관 1층",
+      "building": "음악관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "음악관",
+        "1층"
+      ],
+      "description": "음악학과 사무실(108호), 멀티미디어강의실, 합창합주실, 타악기실, 피아노앙상블실",
+      "floorItems": [
+        "음악학과 사무실(108호)",
+        "멀티미디어강의실",
+        "합창합주실",
+        "타악기실",
+        "피아노앙상블실"
+      ],
+      "point": {
+        "lat": 37.64378,
+        "lng": 127.10467
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "음악관-2f",
+      "name": "음악관 2층",
+      "building": "음악관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "음악관",
+        "2층"
+      ],
+      "description": "실내악실, 피아노듀오실, 컴퓨터음악강의실",
+      "floorItems": [
+        "실내악실",
+        "피아노듀오실",
+        "컴퓨터음악강의실"
+      ],
+      "point": {
+        "lat": 37.64378,
+        "lng": 127.10467
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "음악관-3f",
+      "name": "음악관 3층",
+      "building": "음악관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "음악관",
+        "3층"
+      ],
+      "description": "레슨실, 강의실",
+      "floorItems": [
+        "레슨실",
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.64378,
+        "lng": 127.10467
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "대강당-선교-70주년기념관",
+      "name": "대강당(선교 70주년기념관)",
+      "building": "대강당(선교 70주년기념관)",
+      "category": "건물",
+      "aliases": [
+        "대강당(선교 70주년기념관)"
+      ],
+      "description": "지하 1층: 음악학과 연습실, 악기실, 작곡실, 첼로실, 관현악실, 렛슨실 | 1층: 강당무대, 강당홀, 컨서바토리, 영상선교팀 | 2층: 강당홀, VOS방송실, 편집실, 영상선교팀",
+      "floors": [
+        {
+          "floor": "B1",
+          "label": "지하 1층",
+          "items": [
+            "음악학과 연습실",
+            "악기실",
+            "작곡실",
+            "첼로실",
+            "관현악실",
+            "렛슨실"
+          ]
+        },
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "강당무대",
+            "강당홀",
+            "컨서바토리",
+            "영상선교팀"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "강당홀",
+            "VOS방송실",
+            "편집실",
+            "영상선교팀"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.644,
+        "lng": 127.10564
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "대강당-선교-70주년기념관-b1",
+      "name": "대강당(선교 70주년기념관) 지하 1층",
+      "building": "대강당(선교 70주년기념관)",
+      "floor": "지하 1층",
+      "category": "건물 내부",
+      "aliases": [
+        "대강당(선교 70주년기념관)",
+        "지하 1층"
+      ],
+      "description": "음악학과 연습실, 악기실, 작곡실, 첼로실, 관현악실, 렛슨실",
+      "floorItems": [
+        "음악학과 연습실",
+        "악기실",
+        "작곡실",
+        "첼로실",
+        "관현악실",
+        "렛슨실"
+      ],
+      "point": {
+        "lat": 37.644,
+        "lng": 127.10564
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "대강당-선교-70주년기념관-1f",
+      "name": "대강당(선교 70주년기념관) 1층",
+      "building": "대강당(선교 70주년기념관)",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "대강당(선교 70주년기념관)",
+        "1층"
+      ],
+      "description": "강당무대, 강당홀, 컨서바토리, 영상선교팀",
+      "floorItems": [
+        "강당무대",
+        "강당홀",
+        "컨서바토리",
+        "영상선교팀"
+      ],
+      "point": {
+        "lat": 37.644,
+        "lng": 127.10564
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "대강당-선교-70주년기념관-2f",
+      "name": "대강당(선교 70주년기념관) 2층",
+      "building": "대강당(선교 70주년기념관)",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "대강당(선교 70주년기념관)",
+        "2층"
+      ],
+      "description": "강당홀, VOS방송실, 편집실, 영상선교팀",
+      "floorItems": [
+        "강당홀",
+        "VOS방송실",
+        "편집실",
+        "영상선교팀"
+      ],
+      "point": {
+        "lat": 37.644,
+        "lng": 127.10564
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1실습관-창업보육센터",
+      "name": "제1실습관/창업보육센터",
+      "building": "제1실습관/창업보육센터",
+      "category": "건물",
+      "aliases": [
+        "제1실습관/창업보육센터"
+      ],
+      "description": "1층: 자동차구조엔진실습실, 변전실, 새시다이나모검사실, 역학실험실, 마케트로닉스실험실, 종합제작실, 차체실습실, 엔진다이나모실, CAD, CAM LAB | 2층: 카메카트로닉스학과 사무실, 피아노실, 전기저자기초실습실, 카메카트로닉스응용실습실, 안전관리팀, 영선팀, 환경미화팀 | 3층: 전산교육실 운영 사무실, 전산교육실 (308~310호), 과학, 창작미술실, 유아교육과 사무실, 유아영양실습실 | 4층: 컴퓨터학부 사무실(401호), 컴퓨터학부서버실습실, 디지털 광고시스템실, 인쇄영상광고 시스템실, 컴퓨터학부 프로그래밍 실습실, 컴퓨터학부 프로젝트 실습실 | 5층: 에이엠디 랩, (주)위엔테크, 씨드런, 중앙이앤씨, 애몰라이트, 누림온, 그라피코스, (주)브라보라이프, (주)알앤에프, 오픈버스(주), nmpartners, Rfcookie, (주)레독스테크, (주)누리그림, (주)케이크테라피, (주)엔엠웍스, 에이치텍, 에쓰씨테크",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "자동차구조엔진실습실",
+            "변전실",
+            "새시다이나모검사실",
+            "역학실험실",
+            "마케트로닉스실험실",
+            "종합제작실",
+            "차체실습실",
+            "엔진다이나모실",
+            "CAD, CAM LAB"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "카메카트로닉스학과 사무실",
+            "피아노실",
+            "전기저자기초실습실",
+            "카메카트로닉스응용실습실",
+            "안전관리팀",
+            "영선팀",
+            "환경미화팀"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "전산교육실 운영 사무실",
+            "전산교육실 (308~310호)",
+            "과학",
+            "창작미술실",
+            "유아교육과 사무실",
+            "유아영양실습실"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "컴퓨터학부 사무실(401호)",
+            "컴퓨터학부서버실습실",
+            "디지털 광고시스템실",
+            "인쇄영상광고 시스템실",
+            "컴퓨터학부 프로그래밍 실습실",
+            "컴퓨터학부 프로젝트 실습실"
+          ]
+        },
+        {
+          "floor": "5F",
+          "label": "5층",
+          "items": [
+            "에이엠디 랩",
+            "(주)위엔테크",
+            "씨드런",
+            "중앙이앤씨",
+            "애몰라이트",
+            "누림온",
+            "그라피코스",
+            "(주)브라보라이프",
+            "(주)알앤에프",
+            "오픈버스(주)",
+            "nmpartners",
+            "Rfcookie",
+            "(주)레독스테크",
+            "(주)누리그림",
+            "(주)케이크테라피",
+            "(주)엔엠웍스",
+            "에이치텍",
+            "에쓰씨테크"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64446,
+        "lng": 127.1055
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1실습관-창업보육센터-1f",
+      "name": "제1실습관/창업보육센터 1층",
+      "building": "제1실습관/창업보육센터",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "제1실습관/창업보육센터",
+        "1층"
+      ],
+      "description": "자동차구조엔진실습실, 변전실, 새시다이나모검사실, 역학실험실, 마케트로닉스실험실, 종합제작실, 차체실습실, 엔진다이나모실, CAD, CAM LAB",
+      "floorItems": [
+        "자동차구조엔진실습실",
+        "변전실",
+        "새시다이나모검사실",
+        "역학실험실",
+        "마케트로닉스실험실",
+        "종합제작실",
+        "차체실습실",
+        "엔진다이나모실",
+        "CAD, CAM LAB"
+      ],
+      "point": {
+        "lat": 37.64446,
+        "lng": 127.1055
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1실습관-창업보육센터-2f",
+      "name": "제1실습관/창업보육센터 2층",
+      "building": "제1실습관/창업보육센터",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "제1실습관/창업보육센터",
+        "2층"
+      ],
+      "description": "카메카트로닉스학과 사무실, 피아노실, 전기저자기초실습실, 카메카트로닉스응용실습실, 안전관리팀, 영선팀, 환경미화팀",
+      "floorItems": [
+        "카메카트로닉스학과 사무실",
+        "피아노실",
+        "전기저자기초실습실",
+        "카메카트로닉스응용실습실",
+        "안전관리팀",
+        "영선팀",
+        "환경미화팀"
+      ],
+      "point": {
+        "lat": 37.64446,
+        "lng": 127.1055
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1실습관-창업보육센터-3f",
+      "name": "제1실습관/창업보육센터 3층",
+      "building": "제1실습관/창업보육센터",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "제1실습관/창업보육센터",
+        "3층"
+      ],
+      "description": "전산교육실 운영 사무실, 전산교육실 (308~310호), 과학, 창작미술실, 유아교육과 사무실, 유아영양실습실",
+      "floorItems": [
+        "전산교육실 운영 사무실",
+        "전산교육실 (308~310호)",
+        "과학",
+        "창작미술실",
+        "유아교육과 사무실",
+        "유아영양실습실"
+      ],
+      "point": {
+        "lat": 37.64446,
+        "lng": 127.1055
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1실습관-창업보육센터-4f",
+      "name": "제1실습관/창업보육센터 4층",
+      "building": "제1실습관/창업보육센터",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "제1실습관/창업보육센터",
+        "4층"
+      ],
+      "description": "컴퓨터학부 사무실(401호), 컴퓨터학부서버실습실, 디지털 광고시스템실, 인쇄영상광고 시스템실, 컴퓨터학부 프로그래밍 실습실, 컴퓨터학부 프로젝트 실습실",
+      "floorItems": [
+        "컴퓨터학부 사무실(401호)",
+        "컴퓨터학부서버실습실",
+        "디지털 광고시스템실",
+        "인쇄영상광고 시스템실",
+        "컴퓨터학부 프로그래밍 실습실",
+        "컴퓨터학부 프로젝트 실습실"
+      ],
+      "point": {
+        "lat": 37.64446,
+        "lng": 127.1055
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1실습관-창업보육센터-5f",
+      "name": "제1실습관/창업보육센터 5층",
+      "building": "제1실습관/창업보육센터",
+      "floor": "5층",
+      "category": "건물 내부",
+      "aliases": [
+        "제1실습관/창업보육센터",
+        "5층"
+      ],
+      "description": "에이엠디 랩, (주)위엔테크, 씨드런, 중앙이앤씨, 애몰라이트, 누림온, 그라피코스, (주)브라보라이프, (주)알앤에프, 오픈버스(주), nmpartners, Rfcookie, (주)레독스테크, (주)누리그림, (주)케이크테라피, (주)엔엠웍스, 에이치텍, 에쓰씨테크",
+      "floorItems": [
+        "에이엠디 랩",
+        "(주)위엔테크",
+        "씨드런",
+        "중앙이앤씨",
+        "애몰라이트",
+        "누림온",
+        "그라피코스",
+        "(주)브라보라이프",
+        "(주)알앤에프",
+        "오픈버스(주)",
+        "nmpartners",
+        "Rfcookie",
+        "(주)레독스테크",
+        "(주)누리그림",
+        "(주)케이크테라피",
+        "(주)엔엠웍스",
+        "에이치텍",
+        "에쓰씨테크"
+      ],
+      "point": {
+        "lat": 37.64446,
+        "lng": 127.1055
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "디자인관",
+      "name": "디자인관",
+      "building": "디자인관",
+      "category": "건물",
+      "aliases": [
+        "디자인관"
+      ],
+      "description": "지하 1층: 도예실, 신체표현실, 드림케팅, Think - factory’s room, 경영학과 고시반, 유통마케팅 트랙실, 경영회계 트랙실, 겨영정보 트랙실 | 1층: 커뮤니케이션디자인학과 사무실(101호), 건축설계스튜디오, 포토스튜디오, 일러스트스튜디오, 시각디자인작업실, 컴퓨터크래픽디자인실, 캐릭터디자인실 | 2층: 건축설계스튜디오, 건축모형실, 건축자율실기실, 건축CAD실, 건축의장실, 건축기자재준비실, 건축학과 사무실(202호), 건축연구소",
+      "floors": [
+        {
+          "floor": "B1",
+          "label": "지하 1층",
+          "items": [
+            "도예실",
+            "신체표현실",
+            "드림케팅",
+            "Think - factory’s room",
+            "경영학과 고시반",
+            "유통마케팅 트랙실",
+            "경영회계 트랙실",
+            "겨영정보 트랙실"
+          ]
+        },
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "커뮤니케이션디자인학과 사무실(101호)",
+            "건축설계스튜디오",
+            "포토스튜디오",
+            "일러스트스튜디오",
+            "시각디자인작업실",
+            "컴퓨터크래픽디자인실",
+            "캐릭터디자인실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "건축설계스튜디오",
+            "건축모형실",
+            "건축자율실기실",
+            "건축CAD실",
+            "건축의장실",
+            "건축기자재준비실",
+            "건축학과 사무실(202호)",
+            "건축연구소"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64443,
+        "lng": 127.106
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "디자인관-b1",
+      "name": "디자인관 지하 1층",
+      "building": "디자인관",
+      "floor": "지하 1층",
+      "category": "건물 내부",
+      "aliases": [
+        "디자인관",
+        "지하 1층"
+      ],
+      "description": "도예실, 신체표현실, 드림케팅, Think - factory’s room, 경영학과 고시반, 유통마케팅 트랙실, 경영회계 트랙실, 겨영정보 트랙실",
+      "floorItems": [
+        "도예실",
+        "신체표현실",
+        "드림케팅",
+        "Think - factory’s room",
+        "경영학과 고시반",
+        "유통마케팅 트랙실",
+        "경영회계 트랙실",
+        "겨영정보 트랙실"
+      ],
+      "point": {
+        "lat": 37.64443,
+        "lng": 127.106
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "디자인관-1f",
+      "name": "디자인관 1층",
+      "building": "디자인관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "디자인관",
+        "1층"
+      ],
+      "description": "커뮤니케이션디자인학과 사무실(101호), 건축설계스튜디오, 포토스튜디오, 일러스트스튜디오, 시각디자인작업실, 컴퓨터크래픽디자인실, 캐릭터디자인실",
+      "floorItems": [
+        "커뮤니케이션디자인학과 사무실(101호)",
+        "건축설계스튜디오",
+        "포토스튜디오",
+        "일러스트스튜디오",
+        "시각디자인작업실",
+        "컴퓨터크래픽디자인실",
+        "캐릭터디자인실"
+      ],
+      "point": {
+        "lat": 37.64443,
+        "lng": 127.106
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "디자인관-2f",
+      "name": "디자인관 2층",
+      "building": "디자인관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "디자인관",
+        "2층"
+      ],
+      "description": "건축설계스튜디오, 건축모형실, 건축자율실기실, 건축CAD실, 건축의장실, 건축기자재준비실, 건축학과 사무실(202호), 건축연구소",
+      "floorItems": [
+        "건축설계스튜디오",
+        "건축모형실",
+        "건축자율실기실",
+        "건축CAD실",
+        "건축의장실",
+        "건축기자재준비실",
+        "건축학과 사무실(202호)",
+        "건축연구소"
+      ],
+      "point": {
+        "lat": 37.64443,
+        "lng": 127.106
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "실험동물실",
+      "name": "실험동물실",
+      "building": "실험동물실",
+      "category": "건물",
+      "aliases": [
+        "실험동물실"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64476,
+        "lng": 127.10621
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "목공실습실",
+      "name": "목공실습실",
+      "building": "목공실습실",
+      "category": "건물",
+      "aliases": [
+        "목공실습실"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64476,
+        "lng": 127.10656
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "온실",
+      "name": "온실",
+      "building": "온실",
+      "category": "건물",
+      "aliases": [
+        "온실"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64448,
+        "lng": 127.106664
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "아트-디자인관",
+      "name": "아트 & 디자인관",
+      "building": "아트 & 디자인관",
+      "category": "건물",
+      "aliases": [
+        "아트 & 디자인관"
+      ],
+      "description": "1층: 미술컨텐츠학과 강의실 | 2층: 미술컨텐츠학과 사무실(205호), 교환실(전기·통신팀), 강의실, 미술컨텐츠학과실습실 | 3층: 미술컨텐츠학과 실습실",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "미술컨텐츠학과 강의실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "미술컨텐츠학과 사무실(205호)",
+            "교환실(전기·통신팀)",
+            "강의실",
+            "미술컨텐츠학과실습실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "미술컨텐츠학과 실습실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.644177,
+        "lng": 127.106098
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "아트-디자인관-1f",
+      "name": "아트 & 디자인관 1층",
+      "building": "아트 & 디자인관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "아트 & 디자인관",
+        "1층"
+      ],
+      "description": "미술컨텐츠학과 강의실",
+      "floorItems": [
+        "미술컨텐츠학과 강의실"
+      ],
+      "point": {
+        "lat": 37.644177,
+        "lng": 127.106098
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "아트-디자인관-2f",
+      "name": "아트 & 디자인관 2층",
+      "building": "아트 & 디자인관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "아트 & 디자인관",
+        "2층"
+      ],
+      "description": "미술컨텐츠학과 사무실(205호), 교환실(전기·통신팀), 강의실, 미술컨텐츠학과실습실",
+      "floorItems": [
+        "미술컨텐츠학과 사무실(205호)",
+        "교환실(전기·통신팀)",
+        "강의실",
+        "미술컨텐츠학과실습실"
+      ],
+      "point": {
+        "lat": 37.644177,
+        "lng": 127.106098
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "아트-디자인관-3f",
+      "name": "아트 & 디자인관 3층",
+      "building": "아트 & 디자인관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "아트 & 디자인관",
+        "3층"
+      ],
+      "description": "미술컨텐츠학과 실습실",
+      "floorItems": [
+        "미술컨텐츠학과 실습실"
+      ],
+      "point": {
+        "lat": 37.644177,
+        "lng": 127.106098
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "중앙도서관",
+      "name": "중앙도서관",
+      "building": "중앙도서관",
+      "category": "건물",
+      "aliases": [
+        "중앙도서관"
+      ],
+      "description": "지하 1층: 제1열람실, 제2열람실, 스터디룸, 박물관, STAIRCASE | 1층: 연속간행물실, 정보검색참고자료실, 보건복지자료실, 수서정리실, 도서관장실, 우리은행 삼육대출장소 | 2층: 자료실, 멀티미디어실, 열람실, 휴게실 | 3층: 자료실, 학술정보검색실",
+      "floors": [
+        {
+          "floor": "B1",
+          "label": "지하 1층",
+          "items": [
+            "제1열람실",
+            "제2열람실",
+            "스터디룸",
+            "박물관",
+            "STAIRCASE"
+          ]
+        },
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "연속간행물실",
+            "정보검색참고자료실",
+            "보건복지자료실",
+            "수서정리실",
+            "도서관장실",
+            "우리은행 삼육대출장소"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "자료실",
+            "멀티미디어실",
+            "열람실",
+            "휴게실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "자료실",
+            "학술정보검색실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64321,
+        "lng": 127.106587
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "중앙도서관-b1",
+      "name": "중앙도서관 지하 1층",
+      "building": "중앙도서관",
+      "floor": "지하 1층",
+      "category": "건물 내부",
+      "aliases": [
+        "중앙도서관",
+        "지하 1층"
+      ],
+      "description": "제1열람실, 제2열람실, 스터디룸, 박물관, STAIRCASE",
+      "floorItems": [
+        "제1열람실",
+        "제2열람실",
+        "스터디룸",
+        "박물관",
+        "STAIRCASE"
+      ],
+      "point": {
+        "lat": 37.64321,
+        "lng": 127.106587
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "중앙도서관-1f",
+      "name": "중앙도서관 1층",
+      "building": "중앙도서관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "중앙도서관",
+        "1층"
+      ],
+      "description": "연속간행물실, 정보검색참고자료실, 보건복지자료실, 수서정리실, 도서관장실, 우리은행 삼육대출장소",
+      "floorItems": [
+        "연속간행물실",
+        "정보검색참고자료실",
+        "보건복지자료실",
+        "수서정리실",
+        "도서관장실",
+        "우리은행 삼육대출장소"
+      ],
+      "point": {
+        "lat": 37.64321,
+        "lng": 127.106587
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "중앙도서관-2f",
+      "name": "중앙도서관 2층",
+      "building": "중앙도서관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "중앙도서관",
+        "2층"
+      ],
+      "description": "자료실, 멀티미디어실, 열람실, 휴게실",
+      "floorItems": [
+        "자료실",
+        "멀티미디어실",
+        "열람실",
+        "휴게실"
+      ],
+      "point": {
+        "lat": 37.64321,
+        "lng": 127.106587
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "중앙도서관-3f",
+      "name": "중앙도서관 3층",
+      "building": "중앙도서관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "중앙도서관",
+        "3층"
+      ],
+      "description": "자료실, 학술정보검색실",
+      "floorItems": [
+        "자료실",
+        "학술정보검색실"
+      ],
+      "point": {
+        "lat": 37.64321,
+        "lng": 127.106587
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "에스라관",
+      "name": "에스라관",
+      "building": "에스라관",
+      "category": "건물",
+      "aliases": [
+        "에스라관"
+      ],
+      "description": "지하 1층: 강의실 | 1층: 교양대학 사무실(111호), 자유전공학부 사무실(103호), 사회봉사단, 강의실 | 2층: e - learning 강의실 | 3층: 보건관리학과 사무실(304호), 실험실습실, 사회봉사단, 강의실 | 4층: 강의실",
+      "floors": [
+        {
+          "floor": "B1",
+          "label": "지하 1층",
+          "items": [
+            "강의실"
+          ]
+        },
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "교양대학 사무실(111호)",
+            "자유전공학부 사무실(103호)",
+            "사회봉사단",
+            "강의실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "e - learning 강의실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "보건관리학과 사무실(304호)",
+            "실험실습실",
+            "사회봉사단",
+            "강의실"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "강의실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.643638,
+        "lng": 127.107058
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "에스라관-b1",
+      "name": "에스라관 지하 1층",
+      "building": "에스라관",
+      "floor": "지하 1층",
+      "category": "건물 내부",
+      "aliases": [
+        "에스라관",
+        "지하 1층"
+      ],
+      "description": "강의실",
+      "floorItems": [
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.643638,
+        "lng": 127.107058
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "에스라관-1f",
+      "name": "에스라관 1층",
+      "building": "에스라관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "에스라관",
+        "1층"
+      ],
+      "description": "교양대학 사무실(111호), 자유전공학부 사무실(103호), 사회봉사단, 강의실",
+      "floorItems": [
+        "교양대학 사무실(111호)",
+        "자유전공학부 사무실(103호)",
+        "사회봉사단",
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.643638,
+        "lng": 127.107058
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "에스라관-2f",
+      "name": "에스라관 2층",
+      "building": "에스라관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "에스라관",
+        "2층"
+      ],
+      "description": "e - learning 강의실",
+      "floorItems": [
+        "e - learning 강의실"
+      ],
+      "point": {
+        "lat": 37.643638,
+        "lng": 127.107058
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "에스라관-3f",
+      "name": "에스라관 3층",
+      "building": "에스라관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "에스라관",
+        "3층"
+      ],
+      "description": "보건관리학과 사무실(304호), 실험실습실, 사회봉사단, 강의실",
+      "floorItems": [
+        "보건관리학과 사무실(304호)",
+        "실험실습실",
+        "사회봉사단",
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.643638,
+        "lng": 127.107058
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "에스라관-4f",
+      "name": "에스라관 4층",
+      "building": "에스라관",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "에스라관",
+        "4층"
+      ],
+      "description": "강의실",
+      "floorItems": [
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.643638,
+        "lng": 127.107058
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1과학관",
+      "name": "제1과학관",
+      "building": "제1과학관",
+      "category": "건물",
+      "aliases": [
+        "제1과학관"
+      ],
+      "description": "지하 1층: 식품영양학과 조리실습실, 다량조리실, 식품영양학과 시식실, 생물학과 표본실, 조리실습실, 고체화학연구실 | 1층: 위드바이오, 식품영양학과 실험실, 영양생화학 실험실, 식품여양학과 사무실, 식영과 조교실, 공통실험실 | 2층: 일반화학 실험실, 고분자화학연구실, 분석화학, 물리화학 실험실, 무기화학연구실, 유기화학 실험실, 유기, 무기화학 실험실, 분석화학 연구실, 물리, 환경화학 실험실 | 3층: 의명신경과학연구소, 기초의약과학과사무실, 보건관리학과 교육실, 기초의약과학과, SPF동물실, 동물사육연구실, 행동과학연구실",
+      "floors": [
+        {
+          "floor": "B1",
+          "label": "지하 1층",
+          "items": [
+            "식품영양학과 조리실습실",
+            "다량조리실",
+            "식품영양학과 시식실",
+            "생물학과 표본실",
+            "조리실습실",
+            "고체화학연구실"
+          ]
+        },
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "위드바이오",
+            "식품영양학과 실험실",
+            "영양생화학 실험실",
+            "식품여양학과 사무실",
+            "식영과 조교실",
+            "공통실험실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "일반화학 실험실",
+            "고분자화학연구실",
+            "분석화학",
+            "물리화학 실험실",
+            "무기화학연구실",
+            "유기화학 실험실",
+            "유기",
+            "무기화학 실험실",
+            "분석화학 연구실",
+            "물리",
+            "환경화학 실험실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "의명신경과학연구소",
+            "기초의약과학과사무실",
+            "보건관리학과 교육실",
+            "기초의약과학과",
+            "SPF동물실",
+            "동물사육연구실",
+            "행동과학연구실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64406,
+        "lng": 127.10696
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1과학관-b1",
+      "name": "제1과학관 지하 1층",
+      "building": "제1과학관",
+      "floor": "지하 1층",
+      "category": "건물 내부",
+      "aliases": [
+        "제1과학관",
+        "지하 1층"
+      ],
+      "description": "식품영양학과 조리실습실, 다량조리실, 식품영양학과 시식실, 생물학과 표본실, 조리실습실, 고체화학연구실",
+      "floorItems": [
+        "식품영양학과 조리실습실",
+        "다량조리실",
+        "식품영양학과 시식실",
+        "생물학과 표본실",
+        "조리실습실",
+        "고체화학연구실"
+      ],
+      "point": {
+        "lat": 37.64406,
+        "lng": 127.10696
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1과학관-1f",
+      "name": "제1과학관 1층",
+      "building": "제1과학관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "제1과학관",
+        "1층"
+      ],
+      "description": "위드바이오, 식품영양학과 실험실, 영양생화학 실험실, 식품여양학과 사무실, 식영과 조교실, 공통실험실",
+      "floorItems": [
+        "위드바이오",
+        "식품영양학과 실험실",
+        "영양생화학 실험실",
+        "식품여양학과 사무실",
+        "식영과 조교실",
+        "공통실험실"
+      ],
+      "point": {
+        "lat": 37.64406,
+        "lng": 127.10696
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1과학관-2f",
+      "name": "제1과학관 2층",
+      "building": "제1과학관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "제1과학관",
+        "2층"
+      ],
+      "description": "일반화학 실험실, 고분자화학연구실, 분석화학, 물리화학 실험실, 무기화학연구실, 유기화학 실험실, 유기, 무기화학 실험실, 분석화학 연구실, 물리, 환경화학 실험실",
+      "floorItems": [
+        "일반화학 실험실",
+        "고분자화학연구실",
+        "분석화학",
+        "물리화학 실험실",
+        "무기화학연구실",
+        "유기화학 실험실",
+        "유기",
+        "무기화학 실험실",
+        "분석화학 연구실",
+        "물리",
+        "환경화학 실험실"
+      ],
+      "point": {
+        "lat": 37.64406,
+        "lng": 127.10696
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제1과학관-3f",
+      "name": "제1과학관 3층",
+      "building": "제1과학관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "제1과학관",
+        "3층"
+      ],
+      "description": "의명신경과학연구소, 기초의약과학과사무실, 보건관리학과 교육실, 기초의약과학과, SPF동물실, 동물사육연구실, 행동과학연구실",
+      "floorItems": [
+        "의명신경과학연구소",
+        "기초의약과학과사무실",
+        "보건관리학과 교육실",
+        "기초의약과학과",
+        "SPF동물실",
+        "동물사육연구실",
+        "행동과학연구실"
+      ],
+      "point": {
+        "lat": 37.64406,
+        "lng": 127.10696
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제2과학관",
+      "name": "제2과학관",
+      "building": "제2과학관",
+      "category": "건물",
+      "aliases": [
+        "제2과학관"
+      ],
+      "description": "1층: 동물자원학전공 사무실(104호), AMC한국연합회미디어센터, 수치료실, 국제세미나실 | 2층: 동물번식학실, 동물유전자원연구센터, (주)뮤보다, 가축영양사료분석실, 유가공학실험실, 발생공학실험실, 동물생명공학전공 사무실(209호) | 3층: 일반생물학 실험실, 공통과학기기실, 일반생물학 사무실, 조경제도실, 잔디토양분석실 | 4층: 생명과학실험실, 대학원 실험실, 제1연구실, 제2연구실, 제3연구실, 제4연구실, 생명과학과 사무실(407호) | 5층: 온실, 환경디자인원예학과 사무실(505호), 환경디자인원예학과 실습실, 컴퓨터실",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "동물자원학전공 사무실(104호)",
+            "AMC한국연합회미디어센터",
+            "수치료실",
+            "국제세미나실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "동물번식학실",
+            "동물유전자원연구센터",
+            "(주)뮤보다",
+            "가축영양사료분석실",
+            "유가공학실험실",
+            "발생공학실험실",
+            "동물생명공학전공 사무실(209호)"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "일반생물학 실험실",
+            "공통과학기기실",
+            "일반생물학 사무실",
+            "조경제도실",
+            "잔디토양분석실"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "생명과학실험실",
+            "대학원 실험실",
+            "제1연구실",
+            "제2연구실",
+            "제3연구실",
+            "제4연구실",
+            "생명과학과 사무실(407호)"
+          ]
+        },
+        {
+          "floor": "5F",
+          "label": "5층",
+          "items": [
+            "온실",
+            "환경디자인원예학과 사무실(505호)",
+            "환경디자인원예학과 실습실",
+            "컴퓨터실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64363,
+        "lng": 127.107613
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제2과학관-1f",
+      "name": "제2과학관 1층",
+      "building": "제2과학관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "제2과학관",
+        "1층"
+      ],
+      "description": "동물자원학전공 사무실(104호), AMC한국연합회미디어센터, 수치료실, 국제세미나실",
+      "floorItems": [
+        "동물자원학전공 사무실(104호)",
+        "AMC한국연합회미디어센터",
+        "수치료실",
+        "국제세미나실"
+      ],
+      "point": {
+        "lat": 37.64363,
+        "lng": 127.107613
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제2과학관-2f",
+      "name": "제2과학관 2층",
+      "building": "제2과학관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "제2과학관",
+        "2층"
+      ],
+      "description": "동물번식학실, 동물유전자원연구센터, (주)뮤보다, 가축영양사료분석실, 유가공학실험실, 발생공학실험실, 동물생명공학전공 사무실(209호)",
+      "floorItems": [
+        "동물번식학실",
+        "동물유전자원연구센터",
+        "(주)뮤보다",
+        "가축영양사료분석실",
+        "유가공학실험실",
+        "발생공학실험실",
+        "동물생명공학전공 사무실(209호)"
+      ],
+      "point": {
+        "lat": 37.64363,
+        "lng": 127.107613
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제2과학관-3f",
+      "name": "제2과학관 3층",
+      "building": "제2과학관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "제2과학관",
+        "3층"
+      ],
+      "description": "일반생물학 실험실, 공통과학기기실, 일반생물학 사무실, 조경제도실, 잔디토양분석실",
+      "floorItems": [
+        "일반생물학 실험실",
+        "공통과학기기실",
+        "일반생물학 사무실",
+        "조경제도실",
+        "잔디토양분석실"
+      ],
+      "point": {
+        "lat": 37.64363,
+        "lng": 127.107613
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제2과학관-4f",
+      "name": "제2과학관 4층",
+      "building": "제2과학관",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "제2과학관",
+        "4층"
+      ],
+      "description": "생명과학실험실, 대학원 실험실, 제1연구실, 제2연구실, 제3연구실, 제4연구실, 생명과학과 사무실(407호)",
+      "floorItems": [
+        "생명과학실험실",
+        "대학원 실험실",
+        "제1연구실",
+        "제2연구실",
+        "제3연구실",
+        "제4연구실",
+        "생명과학과 사무실(407호)"
+      ],
+      "point": {
+        "lat": 37.64363,
+        "lng": 127.107613
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제2과학관-5f",
+      "name": "제2과학관 5층",
+      "building": "제2과학관",
+      "floor": "5층",
+      "category": "건물 내부",
+      "aliases": [
+        "제2과학관",
+        "5층"
+      ],
+      "description": "온실, 환경디자인원예학과 사무실(505호), 환경디자인원예학과 실습실, 컴퓨터실",
+      "floorItems": [
+        "온실",
+        "환경디자인원예학과 사무실(505호)",
+        "환경디자인원예학과 실습실",
+        "컴퓨터실"
+      ],
+      "point": {
+        "lat": 37.64363,
+        "lng": 127.107613
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "어린이집-아름동",
+      "name": "어린이집(아름동)",
+      "building": "어린이집(아름동)",
+      "category": "건물",
+      "aliases": [
+        "어린이집(아름동)"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64358,
+        "lng": 127.10812
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "식품영양학과-실습실",
+      "name": "식품영양학과 실습실",
+      "building": "식품영양학과 실습실",
+      "category": "건물",
+      "aliases": [
+        "식품영양학과 실습실"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64376,
+        "lng": 127.10794
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "학생상담센터",
+      "name": "학생상담센터",
+      "building": "학생상담센터",
+      "category": "건물",
+      "aliases": [
+        "학생상담센터"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64376,
+        "lng": 127.1083
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "어린이집-다움동",
+      "name": "어린이집(다움동)",
+      "building": "어린이집(다움동)",
+      "category": "건물",
+      "aliases": [
+        "어린이집(다움동)"
+      ],
+      "floors": [],
+      "point": {
+        "lat": 37.64362,
+        "lng": 127.10842
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "평생교육원-유치원",
+      "name": "평생교육원/유치원",
+      "building": "평생교육원/유치원",
+      "category": "건물",
+      "aliases": [
+        "평생교육원/유치원"
+      ],
+      "description": "1층: 유치원 | 2층: 평생교육원",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "유치원"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "평생교육원"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.643108,
+        "lng": 127.10825
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "평생교육원-유치원-1f",
+      "name": "평생교육원/유치원 1층",
+      "building": "평생교육원/유치원",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "평생교육원/유치원",
+        "1층"
+      ],
+      "description": "유치원",
+      "floorItems": [
+        "유치원"
+      ],
+      "point": {
+        "lat": 37.643108,
+        "lng": 127.10825
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "평생교육원-유치원-2f",
+      "name": "평생교육원/유치원 2층",
+      "building": "평생교육원/유치원",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "평생교육원/유치원",
+        "2층"
+      ],
+      "description": "평생교육원",
+      "floorItems": [
+        "평생교육원"
+      ],
+      "point": {
+        "lat": 37.643108,
+        "lng": 127.10825
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제3과학관",
+      "name": "제3과학관",
+      "building": "제3과학관",
+      "category": "건물",
+      "aliases": [
+        "제3과학관"
+      ],
+      "description": "지하 1층: 우체국, 주차장 | 1층: 물리치료학과 사무실, 물리치료실습실(신경, 기본, 노인, 근골격), 조경미화, 대학원공통실험실, 대학원연구실, 근전도 및 보행분석실, 생역학실험실, 심폐 및 TMJ실험실 | 2층: 간호학과 사무실, 멀티미디어 자율학습실, 문제중심학습실, 기초과학실, 간호학실습실, 시뮬레이션학습실 | 3층: 천연물화학연구실, 공통실험실, 표본실, 증류수실, 국시실, 임상약학연구실, 생약학연구실, 약학과 사무실 | 4층: 생화학연구실, 역제학연구실, 병태생리학연구실, 면역학연구실, 세포배양실, 실습약국, 미생물학연구실, 약품분석화학연구실, 생물약제학연구실, 예방약학연구실, 미생물학대학원연구실",
+      "floors": [
+        {
+          "floor": "B1",
+          "label": "지하 1층",
+          "items": [
+            "우체국",
+            "주차장"
+          ]
+        },
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "물리치료학과 사무실",
+            "물리치료실습실(신경, 기본, 노인, 근골격)",
+            "조경미화",
+            "대학원공통실험실",
+            "대학원연구실",
+            "근전도 및 보행분석실",
+            "생역학실험실",
+            "심폐 및 TMJ실험실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "간호학과 사무실",
+            "멀티미디어 자율학습실",
+            "문제중심학습실",
+            "기초과학실",
+            "간호학실습실",
+            "시뮬레이션학습실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "천연물화학연구실",
+            "공통실험실",
+            "표본실",
+            "증류수실",
+            "국시실",
+            "임상약학연구실",
+            "생약학연구실",
+            "약학과 사무실"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "생화학연구실",
+            "역제학연구실",
+            "병태생리학연구실",
+            "면역학연구실",
+            "세포배양실",
+            "실습약국",
+            "미생물학연구실",
+            "약품분석화학연구실",
+            "생물약제학연구실",
+            "예방약학연구실",
+            "미생물학대학원연구실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64296,
+        "lng": 127.1087
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제3과학관-b1",
+      "name": "제3과학관 지하 1층",
+      "building": "제3과학관",
+      "floor": "지하 1층",
+      "category": "건물 내부",
+      "aliases": [
+        "제3과학관",
+        "지하 1층"
+      ],
+      "description": "우체국, 주차장",
+      "floorItems": [
+        "우체국",
+        "주차장"
+      ],
+      "point": {
+        "lat": 37.64296,
+        "lng": 127.1087
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제3과학관-1f",
+      "name": "제3과학관 1층",
+      "building": "제3과학관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "제3과학관",
+        "1층"
+      ],
+      "description": "물리치료학과 사무실, 물리치료실습실(신경, 기본, 노인, 근골격), 조경미화, 대학원공통실험실, 대학원연구실, 근전도 및 보행분석실, 생역학실험실, 심폐 및 TMJ실험실",
+      "floorItems": [
+        "물리치료학과 사무실",
+        "물리치료실습실(신경, 기본, 노인, 근골격)",
+        "조경미화",
+        "대학원공통실험실",
+        "대학원연구실",
+        "근전도 및 보행분석실",
+        "생역학실험실",
+        "심폐 및 TMJ실험실"
+      ],
+      "point": {
+        "lat": 37.64296,
+        "lng": 127.1087
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제3과학관-2f",
+      "name": "제3과학관 2층",
+      "building": "제3과학관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "제3과학관",
+        "2층"
+      ],
+      "description": "간호학과 사무실, 멀티미디어 자율학습실, 문제중심학습실, 기초과학실, 간호학실습실, 시뮬레이션학습실",
+      "floorItems": [
+        "간호학과 사무실",
+        "멀티미디어 자율학습실",
+        "문제중심학습실",
+        "기초과학실",
+        "간호학실습실",
+        "시뮬레이션학습실"
+      ],
+      "point": {
+        "lat": 37.64296,
+        "lng": 127.1087
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제3과학관-3f",
+      "name": "제3과학관 3층",
+      "building": "제3과학관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "제3과학관",
+        "3층"
+      ],
+      "description": "천연물화학연구실, 공통실험실, 표본실, 증류수실, 국시실, 임상약학연구실, 생약학연구실, 약학과 사무실",
+      "floorItems": [
+        "천연물화학연구실",
+        "공통실험실",
+        "표본실",
+        "증류수실",
+        "국시실",
+        "임상약학연구실",
+        "생약학연구실",
+        "약학과 사무실"
+      ],
+      "point": {
+        "lat": 37.64296,
+        "lng": 127.1087
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "제3과학관-4f",
+      "name": "제3과학관 4층",
+      "building": "제3과학관",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "제3과학관",
+        "4층"
+      ],
+      "description": "생화학연구실, 역제학연구실, 병태생리학연구실, 면역학연구실, 세포배양실, 실습약국, 미생물학연구실, 약품분석화학연구실, 생물약제학연구실, 예방약학연구실, 미생물학대학원연구실",
+      "floorItems": [
+        "생화학연구실",
+        "역제학연구실",
+        "병태생리학연구실",
+        "면역학연구실",
+        "세포배양실",
+        "실습약국",
+        "미생물학연구실",
+        "약품분석화학연구실",
+        "생물약제학연구실",
+        "예방약학연구실",
+        "미생물학대학원연구실"
+      ],
+      "point": {
+        "lat": 37.64296,
+        "lng": 127.1087
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "뉴스타트센터",
+      "name": "뉴스타트센터",
+      "building": "뉴스타트센터",
+      "category": "건물",
+      "aliases": [
+        "뉴스타트센터"
+      ],
+      "description": "1층: 인성교육원 | 2층: 학생공간, 세미나실 | 3층: 학생공간, 세미나실",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "인성교육원"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "학생공간",
+            "세미나실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "학생공간",
+            "세미나실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64182,
+        "lng": 127.10888
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "뉴스타트센터-1f",
+      "name": "뉴스타트센터 1층",
+      "building": "뉴스타트센터",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "뉴스타트센터",
+        "1층"
+      ],
+      "description": "인성교육원",
+      "floorItems": [
+        "인성교육원"
+      ],
+      "point": {
+        "lat": 37.64182,
+        "lng": 127.10888
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "뉴스타트센터-2f",
+      "name": "뉴스타트센터 2층",
+      "building": "뉴스타트센터",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "뉴스타트센터",
+        "2층"
+      ],
+      "description": "학생공간, 세미나실",
+      "floorItems": [
+        "학생공간",
+        "세미나실"
+      ],
+      "point": {
+        "lat": 37.64182,
+        "lng": 127.10888
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "뉴스타트센터-3f",
+      "name": "뉴스타트센터 3층",
+      "building": "뉴스타트센터",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "뉴스타트센터",
+        "3층"
+      ],
+      "description": "학생공간, 세미나실",
+      "floorItems": [
+        "학생공간",
+        "세미나실"
+      ],
+      "point": {
+        "lat": 37.64182,
+        "lng": 127.10888
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다니엘관-요한관-박물관",
+      "name": "다니엘관/요한관/박물관",
+      "building": "다니엘관/요한관/박물관",
+      "category": "건물",
+      "aliases": [
+        "다니엘관/요한관/박물관"
+      ],
+      "description": "지하 2층: 주차장 | 지하 1층: 대강의실, 주차장, 홍명기홀, 기획전시실, 세미나실 | 1층: 국제문화교육원, 소강의실, 외국인교수연구실, ICEC원장실, 학예연구실 | 2층: 교육혁신팀, 소강의실, 대강의실, 중강의실, 교육미디어지원팀, 박물관 - 기증유물실 | 3층: 중강의실, 대강의실, 소강의실, 외국인학생 휴게실, 박물관 - 성경자료실 | 4층: 중강의실, 대강의실, 소강의실, 박물관 - 성경고고학자료실 | 5층: 교수학습개발센터, 중강의실, 세계선교센터, 미디어선교센터, 외래교수실, 명예교수실, 교수연구실, 커뮤니티센터, 박물관 - 특별전시실",
+      "floors": [
+        {
+          "floor": "B2",
+          "label": "지하 2층",
+          "items": [
+            "주차장"
+          ]
+        },
+        {
+          "floor": "B1",
+          "label": "지하 1층",
+          "items": [
+            "대강의실",
+            "주차장",
+            "홍명기홀",
+            "기획전시실",
+            "세미나실"
+          ]
+        },
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "국제문화교육원",
+            "소강의실",
+            "외국인교수연구실",
+            "ICEC원장실",
+            "학예연구실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "교육혁신팀",
+            "소강의실",
+            "대강의실",
+            "중강의실",
+            "교육미디어지원팀",
+            "박물관 - 기증유물실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "중강의실",
+            "대강의실",
+            "소강의실",
+            "외국인학생 휴게실",
+            "박물관 - 성경자료실"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "중강의실",
+            "대강의실",
+            "소강의실",
+            "박물관 - 성경고고학자료실"
+          ]
+        },
+        {
+          "floor": "5F",
+          "label": "5층",
+          "items": [
+            "교수학습개발센터",
+            "중강의실",
+            "세계선교센터",
+            "미디어선교센터",
+            "외래교수실",
+            "명예교수실",
+            "교수연구실",
+            "커뮤니티센터",
+            "박물관 - 특별전시실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64228,
+        "lng": 127.1078
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다니엘관-요한관-박물관-b2",
+      "name": "다니엘관/요한관/박물관 지하 2층",
+      "building": "다니엘관/요한관/박물관",
+      "floor": "지하 2층",
+      "category": "건물 내부",
+      "aliases": [
+        "다니엘관/요한관/박물관",
+        "지하 2층"
+      ],
+      "description": "주차장",
+      "floorItems": [
+        "주차장"
+      ],
+      "point": {
+        "lat": 37.64228,
+        "lng": 127.1078
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다니엘관-요한관-박물관-b1",
+      "name": "다니엘관/요한관/박물관 지하 1층",
+      "building": "다니엘관/요한관/박물관",
+      "floor": "지하 1층",
+      "category": "건물 내부",
+      "aliases": [
+        "다니엘관/요한관/박물관",
+        "지하 1층"
+      ],
+      "description": "대강의실, 주차장, 홍명기홀, 기획전시실, 세미나실",
+      "floorItems": [
+        "대강의실",
+        "주차장",
+        "홍명기홀",
+        "기획전시실",
+        "세미나실"
+      ],
+      "point": {
+        "lat": 37.64228,
+        "lng": 127.1078
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다니엘관-요한관-박물관-1f",
+      "name": "다니엘관/요한관/박물관 1층",
+      "building": "다니엘관/요한관/박물관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "다니엘관/요한관/박물관",
+        "1층"
+      ],
+      "description": "국제문화교육원, 소강의실, 외국인교수연구실, ICEC원장실, 학예연구실",
+      "floorItems": [
+        "국제문화교육원",
+        "소강의실",
+        "외국인교수연구실",
+        "ICEC원장실",
+        "학예연구실"
+      ],
+      "point": {
+        "lat": 37.64228,
+        "lng": 127.1078
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다니엘관-요한관-박물관-2f",
+      "name": "다니엘관/요한관/박물관 2층",
+      "building": "다니엘관/요한관/박물관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "다니엘관/요한관/박물관",
+        "2층"
+      ],
+      "description": "교육혁신팀, 소강의실, 대강의실, 중강의실, 교육미디어지원팀, 박물관 - 기증유물실",
+      "floorItems": [
+        "교육혁신팀",
+        "소강의실",
+        "대강의실",
+        "중강의실",
+        "교육미디어지원팀",
+        "박물관 - 기증유물실"
+      ],
+      "point": {
+        "lat": 37.64228,
+        "lng": 127.1078
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다니엘관-요한관-박물관-3f",
+      "name": "다니엘관/요한관/박물관 3층",
+      "building": "다니엘관/요한관/박물관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "다니엘관/요한관/박물관",
+        "3층"
+      ],
+      "description": "중강의실, 대강의실, 소강의실, 외국인학생 휴게실, 박물관 - 성경자료실",
+      "floorItems": [
+        "중강의실",
+        "대강의실",
+        "소강의실",
+        "외국인학생 휴게실",
+        "박물관 - 성경자료실"
+      ],
+      "point": {
+        "lat": 37.64228,
+        "lng": 127.1078
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다니엘관-요한관-박물관-4f",
+      "name": "다니엘관/요한관/박물관 4층",
+      "building": "다니엘관/요한관/박물관",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "다니엘관/요한관/박물관",
+        "4층"
+      ],
+      "description": "중강의실, 대강의실, 소강의실, 박물관 - 성경고고학자료실",
+      "floorItems": [
+        "중강의실",
+        "대강의실",
+        "소강의실",
+        "박물관 - 성경고고학자료실"
+      ],
+      "point": {
+        "lat": 37.64228,
+        "lng": 127.1078
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "다니엘관-요한관-박물관-5f",
+      "name": "다니엘관/요한관/박물관 5층",
+      "building": "다니엘관/요한관/박물관",
+      "floor": "5층",
+      "category": "건물 내부",
+      "aliases": [
+        "다니엘관/요한관/박물관",
+        "5층"
+      ],
+      "description": "교수학습개발센터, 중강의실, 세계선교센터, 미디어선교센터, 외래교수실, 명예교수실, 교수연구실, 커뮤니티센터, 박물관 - 특별전시실",
+      "floorItems": [
+        "교수학습개발센터",
+        "중강의실",
+        "세계선교센터",
+        "미디어선교센터",
+        "외래교수실",
+        "명예교수실",
+        "교수연구실",
+        "커뮤니티센터",
+        "박물관 - 특별전시실"
+      ],
+      "point": {
+        "lat": 37.64228,
+        "lng": 127.1078
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "바울관",
+      "name": "바울관",
+      "building": "바울관",
+      "category": "건물",
+      "aliases": [
+        "바울관"
+      ],
+      "description": "지하 1층: 구내서점, 문구점, 프랜들리(식당), 빵집, 꽃집 | 1층: 학생지원처, 학사지원실, 상담지원팀, 취업진로지원센터, 모의면접실, 상담실, 장애학생휴게실 | 2층: 경영학과 사무실(201호), 경영정보학과 사무실(201호), 강의실 | 3층: 중국어학실, 유비쿼터스실, 강의실 | 4층: 중국어학과 사무실(406호), 일본어학과 사무실(406호), 실습실, 강의실",
+      "floors": [
+        {
+          "floor": "B1",
+          "label": "지하 1층",
+          "items": [
+            "구내서점",
+            "문구점",
+            "프랜들리(식당)",
+            "빵집",
+            "꽃집"
+          ]
+        },
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "학생지원처",
+            "학사지원실",
+            "상담지원팀",
+            "취업진로지원센터",
+            "모의면접실",
+            "상담실",
+            "장애학생휴게실"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "경영학과 사무실(201호)",
+            "경영정보학과 사무실(201호)",
+            "강의실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "중국어학실",
+            "유비쿼터스실",
+            "강의실"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "중국어학과 사무실(406호)",
+            "일본어학과 사무실(406호)",
+            "실습실",
+            "강의실"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64272,
+        "lng": 127.107107
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "바울관-b1",
+      "name": "바울관 지하 1층",
+      "building": "바울관",
+      "floor": "지하 1층",
+      "category": "건물 내부",
+      "aliases": [
+        "바울관",
+        "지하 1층"
+      ],
+      "description": "구내서점, 문구점, 프랜들리(식당), 빵집, 꽃집",
+      "floorItems": [
+        "구내서점",
+        "문구점",
+        "프랜들리(식당)",
+        "빵집",
+        "꽃집"
+      ],
+      "point": {
+        "lat": 37.64272,
+        "lng": 127.107107
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "바울관-1f",
+      "name": "바울관 1층",
+      "building": "바울관",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "바울관",
+        "1층"
+      ],
+      "description": "학생지원처, 학사지원실, 상담지원팀, 취업진로지원센터, 모의면접실, 상담실, 장애학생휴게실",
+      "floorItems": [
+        "학생지원처",
+        "학사지원실",
+        "상담지원팀",
+        "취업진로지원센터",
+        "모의면접실",
+        "상담실",
+        "장애학생휴게실"
+      ],
+      "point": {
+        "lat": 37.64272,
+        "lng": 127.107107
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "바울관-2f",
+      "name": "바울관 2층",
+      "building": "바울관",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "바울관",
+        "2층"
+      ],
+      "description": "경영학과 사무실(201호), 경영정보학과 사무실(201호), 강의실",
+      "floorItems": [
+        "경영학과 사무실(201호)",
+        "경영정보학과 사무실(201호)",
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.64272,
+        "lng": 127.107107
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "바울관-3f",
+      "name": "바울관 3층",
+      "building": "바울관",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "바울관",
+        "3층"
+      ],
+      "description": "중국어학실, 유비쿼터스실, 강의실",
+      "floorItems": [
+        "중국어학실",
+        "유비쿼터스실",
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.64272,
+        "lng": 127.107107
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "바울관-4f",
+      "name": "바울관 4층",
+      "building": "바울관",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "바울관",
+        "4층"
+      ],
+      "description": "중국어학과 사무실(406호), 일본어학과 사무실(406호), 실습실, 강의실",
+      "floorItems": [
+        "중국어학과 사무실(406호)",
+        "일본어학과 사무실(406호)",
+        "실습실",
+        "강의실"
+      ],
+      "point": {
+        "lat": 37.64272,
+        "lng": 127.107107
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "학생회관-대학일자리본부",
+      "name": "학생회관/대학일자리본부",
+      "building": "학생회관/대학일자리본부",
+      "category": "건물",
+      "aliases": [
+        "학생회관/대학일자리본부"
+      ],
+      "description": "1층: 매점(CU편의점), SU Lounge(학생식당), 우리은행 현금인출기 | 2층: 대학총학생회, 취업지원팀, 예비군대대, 여학생수면실, 학생휴게실, 안경점, 여학생부장실 | 3층: 총대의원회, 졸업준비위원회, 학회연합회, 영자신문사, 신문사, 각 동아리방 | 4층: 동아리연합회, 각 동아리방",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "매점(CU편의점)",
+            "SU Lounge(학생식당)",
+            "우리은행 현금인출기"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "대학총학생회",
+            "취업지원팀",
+            "예비군대대",
+            "여학생수면실",
+            "학생휴게실",
+            "안경점",
+            "여학생부장실"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "총대의원회",
+            "졸업준비위원회",
+            "학회연합회",
+            "영자신문사",
+            "신문사",
+            "각 동아리방"
+          ]
+        },
+        {
+          "floor": "4F",
+          "label": "4층",
+          "items": [
+            "동아리연합회",
+            "각 동아리방"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.6421,
+        "lng": 127.10708
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "학생회관-대학일자리본부-1f",
+      "name": "학생회관/대학일자리본부 1층",
+      "building": "학생회관/대학일자리본부",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "학생회관/대학일자리본부",
+        "1층"
+      ],
+      "description": "매점(CU편의점), SU Lounge(학생식당), 우리은행 현금인출기",
+      "floorItems": [
+        "매점(CU편의점)",
+        "SU Lounge(학생식당)",
+        "우리은행 현금인출기"
+      ],
+      "point": {
+        "lat": 37.6421,
+        "lng": 127.10708
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "학생회관-대학일자리본부-2f",
+      "name": "학생회관/대학일자리본부 2층",
+      "building": "학생회관/대학일자리본부",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "학생회관/대학일자리본부",
+        "2층"
+      ],
+      "description": "대학총학생회, 취업지원팀, 예비군대대, 여학생수면실, 학생휴게실, 안경점, 여학생부장실",
+      "floorItems": [
+        "대학총학생회",
+        "취업지원팀",
+        "예비군대대",
+        "여학생수면실",
+        "학생휴게실",
+        "안경점",
+        "여학생부장실"
+      ],
+      "point": {
+        "lat": 37.6421,
+        "lng": 127.10708
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "학생회관-대학일자리본부-3f",
+      "name": "학생회관/대학일자리본부 3층",
+      "building": "학생회관/대학일자리본부",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "학생회관/대학일자리본부",
+        "3층"
+      ],
+      "description": "총대의원회, 졸업준비위원회, 학회연합회, 영자신문사, 신문사, 각 동아리방",
+      "floorItems": [
+        "총대의원회",
+        "졸업준비위원회",
+        "학회연합회",
+        "영자신문사",
+        "신문사",
+        "각 동아리방"
+      ],
+      "point": {
+        "lat": 37.6421,
+        "lng": 127.10708
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "학생회관-대학일자리본부-4f",
+      "name": "학생회관/대학일자리본부 4층",
+      "building": "학생회관/대학일자리본부",
+      "floor": "4층",
+      "category": "건물 내부",
+      "aliases": [
+        "학생회관/대학일자리본부",
+        "4층"
+      ],
+      "description": "동아리연합회, 각 동아리방",
+      "floorItems": [
+        "동아리연합회",
+        "각 동아리방"
+      ],
+      "point": {
+        "lat": 37.6421,
+        "lng": 127.10708
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "체육관-스포츠센터",
+      "name": "체육관(스포츠센터)",
+      "building": "체육관(스포츠센터)",
+      "category": "건물",
+      "aliases": [
+        "체육관(스포츠센터)"
+      ],
+      "description": "1층: 수영장 (길이 25m, 넓이 10m, 5레인) - 남ㆍ여 탈의실 및 샤워실, 체력측정실, 운동처방실, 체력관리실, 시청각실, 탁구장, 무도관 | 2층: 주경기장 (농구코트 1면, 배구코트 1면, 배드민턴코트 4면), 스쿼시장 (코트 3면), 남ㆍ여 탈의실 및 샤워실, 등록실, 관리지원실, 보건소 | 3층: 주경기장 관람석 (370석)",
+      "floors": [
+        {
+          "floor": "1F",
+          "label": "1층",
+          "items": [
+            "수영장 (길이 25m, 넓이 10m, 5레인) - 남ㆍ여 탈의실 및 샤워실",
+            "체력측정실",
+            "운동처방실",
+            "체력관리실",
+            "시청각실",
+            "탁구장",
+            "무도관"
+          ]
+        },
+        {
+          "floor": "2F",
+          "label": "2층",
+          "items": [
+            "주경기장 (농구코트 1면, 배구코트 1면, 배드민턴코트 4면)",
+            "스쿼시장 (코트 3면)",
+            "남ㆍ여 탈의실 및 샤워실",
+            "등록실",
+            "관리지원실",
+            "보건소"
+          ]
+        },
+        {
+          "floor": "3F",
+          "label": "3층",
+          "items": [
+            "주경기장 관람석 (370석)"
+          ]
+        }
+      ],
+      "point": {
+        "lat": 37.64145,
+        "lng": 127.10667
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "체육관-스포츠센터-1f",
+      "name": "체육관(스포츠센터) 1층",
+      "building": "체육관(스포츠센터)",
+      "floor": "1층",
+      "category": "건물 내부",
+      "aliases": [
+        "체육관(스포츠센터)",
+        "1층"
+      ],
+      "description": "수영장 (길이 25m, 넓이 10m, 5레인) - 남ㆍ여 탈의실 및 샤워실, 체력측정실, 운동처방실, 체력관리실, 시청각실, 탁구장, 무도관",
+      "floorItems": [
+        "수영장 (길이 25m, 넓이 10m, 5레인) - 남ㆍ여 탈의실 및 샤워실",
+        "체력측정실",
+        "운동처방실",
+        "체력관리실",
+        "시청각실",
+        "탁구장",
+        "무도관"
+      ],
+      "point": {
+        "lat": 37.64145,
+        "lng": 127.10667
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "체육관-스포츠센터-2f",
+      "name": "체육관(스포츠센터) 2층",
+      "building": "체육관(스포츠센터)",
+      "floor": "2층",
+      "category": "건물 내부",
+      "aliases": [
+        "체육관(스포츠센터)",
+        "2층"
+      ],
+      "description": "주경기장 (농구코트 1면, 배구코트 1면, 배드민턴코트 4면), 스쿼시장 (코트 3면), 남ㆍ여 탈의실 및 샤워실, 등록실, 관리지원실, 보건소",
+      "floorItems": [
+        "주경기장 (농구코트 1면, 배구코트 1면, 배드민턴코트 4면)",
+        "스쿼시장 (코트 3면)",
+        "남ㆍ여 탈의실 및 샤워실",
+        "등록실",
+        "관리지원실",
+        "보건소"
+      ],
+      "point": {
+        "lat": 37.64145,
+        "lng": 127.10667
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    },
+    {
+      "id": "체육관-스포츠센터-3f",
+      "name": "체육관(스포츠센터) 3층",
+      "building": "체육관(스포츠센터)",
+      "floor": "3층",
+      "category": "건물 내부",
+      "aliases": [
+        "체육관(스포츠센터)",
+        "3층"
+      ],
+      "description": "주경기장 관람석 (370석)",
+      "floorItems": [
+        "주경기장 관람석 (370석)"
+      ],
+      "point": {
+        "lat": 37.64145,
+        "lng": 127.10667
+      },
+      "sourceUrl": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/"
+    }
+  ]
+}

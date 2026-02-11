@@ -1,0 +1,48 @@
+{
+  "name": "eodiya",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "next:dev": "next dev",
+    "next:build": "next build",
+    "next:start": "next start",
+    "build:css": "postcss src/index.css -o out.css",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "campusmap:scrape": "node scripts/campusmap/scrape.mjs --download-images",
+    "campusmap:ocr": "node scripts/campusmap/ocr.mjs",
+    "campusmap:floors": "node scripts/campusmap/extract-floors.mjs",
+    "campusmap:floors:raw": "node scripts/campusmap/extract-floors.mjs --in data/campusmap/raw/buildings.raw.json",
+    "campusmap:generate": "node scripts/campusmap/generate-places-ts.mjs",
+    "campusmap:sync": "npm run campusmap:scrape && npm run campusmap:floors:raw && npm run campusmap:generate",
+    "campusmap:all": "npm run campusmap:scrape && npm run campusmap:ocr && npm run campusmap:floors && npm run campusmap:generate"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "next": "^16.1.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/node": "^24.10.1",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "autoprefixer": "^10.4.23",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^3.4.13",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.46.4",
+    "vite": "^7.2.4"
+  }
+}
