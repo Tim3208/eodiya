@@ -1,0 +1,1040 @@
+{
+  "generatedAt": "2026-02-10T08:52:58.973Z",
+  "source": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+  "strategy": "embedded-js",
+  "count": 38,
+  "buildings": [
+    {
+      "sequence": 1,
+      "name": "백주년기념관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "백주년기념관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/01_%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%84%82%E1%85%A7%E1%86%AB%E1%84%80%E1%85%B5%E1%84%82%E1%85%A7%E1%86%B7%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/01_%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%84%82%E1%85%A7%E1%86%AB%E1%84%80%E1%85%B5%E1%84%82%E1%85%A7%E1%86%B7%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\01-백주년기념관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 총무과(건축·구매팀, 인사팀) / 입학처 / 대학원 / 재무처 / 우편물취급소",
+        "2층 : 총장실 / 부총장실 / 기획처 / 사무처 / 교수실 / 기획처 / 소회의실",
+        "3층 : 대외협력처 / 대회의실 / 국제교육관 연결통로",
+        "4층 : SU-MVP강의실 / 홍보팀(401호) / 산학협력단 / 연구처 / 문서보관실"
+      ],
+      "summary": "지난 2006년 개교100주년을 기념해 지은 백주년기념관은 정문방향으로 입구가 있으며, 국제교육관과 3층 통로로 연결되어 있습니다. 국제교욱관은 대강당 방향으로 입구가 있으며, 백주년기념관과 3층에서 연결되어 있습니다.",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 총무과(건축·구매팀, 인사팀) / 입학처 / 대학원 / 재무처 / 우편물취급소</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 총장실 / 부총장실 / 기획처 / 사무처 / 교수실 / 기획처 / 소회의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 대외협력처 / 대회의실 / 국제교육관 연결통로</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : SU-MVP강의실 / 홍보팀(401호) / 산학협력단 / 연구처 /  문서보관실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/01/tour.html",
+      "point": {
+        "lat": 37.64282834438075,
+        "lng": 127.10520761511863
+      }
+    },
+    {
+      "sequence": 2,
+      "name": "신학관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "신학관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/02_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/02_%E1%84%89%E1%85%B5%E1%86%AB%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\02-신학관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "지하1층 : 침례예식장 / 세탁실 / 강의실",
+        "1층 : 신학과 사무실(108호) / 대학원 교학팀 / 세계복지지원단 / 신학과학문제연구소 / 대학원 세미나실 / 수업행동분석실",
+        "2층 : 신학과 학회실 / 동문회 사무실",
+        "3층 : 선교사회연구소 / 신학연구소",
+        "4층 : 예언의신연구원 / 목회연구소 / 대학원 세미나실 / 코이노니아룸 / 신학대학원 원우회실 / 배창현 기념채플 영성훈련실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 침례예식장 / 세탁실 / 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 신학과 사무실(108호) / 대학원 교학팀 / 세계복지지원단 / 신학과학문제연구소 / 대학원 세미나실 / 수업행동분석실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 신학과 학회실 / 동문회 사무실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 선교사회연구소 / 신학연구소</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 예언의신연구원 / 목회연구소 / 대학원 세미나실 / 코이노니아룸 / 신학대학원 원우회실 / 배창현 기념채플 영성훈련실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/02/tour.html",
+      "point": {
+        "lat": 37.642314215176825,
+        "lng": 127.10446265602867
+      }
+    },
+    {
+      "sequence": 3,
+      "name": "스미스관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "스미스관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/03_%E1%84%89%E1%85%B3%E1%84%86%E1%85%B5%E1%84%89%E1%85%B3%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/03_%E1%84%89%E1%85%B3%E1%84%86%E1%85%B5%E1%84%89%E1%85%B3%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\03-스미스관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 시설관리과 / 고시반"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 시설관리과 / 고시반</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/03/tour.html",
+      "point": {
+        "lat": 37.64250530043075,
+        "lng": 127.104274701002
+      }
+    },
+    {
+      "sequence": 4,
+      "name": "국제교육관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "국제교육관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-2.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-2.png",
+          "filePath": "data\\campusmap\\raw\\images\\04-국제교육관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 강의실 / 상담심리학과 사무실(102호)",
+        "2층 : 강의실",
+        "3층 : 장근청홀(입구)",
+        "4층 : 장근청홀"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 강의실 / 상담심리학과 사무실(102호)</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 장근청홀(입구)</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 장근청홀</span></li></ul></div>",
+      "vrLink": null,
+      "point": {
+        "lat": 37.64313421517682,
+        "lng": 127.10546265602868
+      }
+    },
+    {
+      "sequence": 5,
+      "name": "SAY",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "SAY",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image.png",
+          "filePath": "data\\campusmap\\raw\\images\\05-say-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "",
+      "floorPlanHtml": "",
+      "vrLink": null,
+      "point": {
+        "lat": 37.64346614919671,
+        "lng": 127.1041211007446
+      }
+    },
+    {
+      "sequence": 6,
+      "name": "사무엘관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "사무엘관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/06_%E1%84%89%E1%85%A1%E1%84%86%E1%85%AE%E1%84%8B%E1%85%A6%E1%86%AF%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/06_%E1%84%89%E1%85%A1%E1%84%86%E1%85%AE%E1%84%8B%E1%85%A6%E1%86%AF%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\06-사무엘관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 강의실 / 사회복지학과 사무실(106호)",
+        "2층 : 강의실",
+        "3층 : 영어영문학부 사무실(306호) / 강의실 / 영어영문학부 멀티미디어룸 / LAB TOEFL CENTER"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 강의실 / 사회복지학과 사무실(106호)</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 영어영문학부 사무실(306호) / 강의실 / 영어영문학부 멀티미디어룸 / LAB TOEFL CENTER</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/06/tour.html",
+      "point": {
+        "lat": 37.64326614919671,
+        "lng": 127.10382811007446
+      }
+    },
+    {
+      "sequence": 7,
+      "name": "에덴관(여학생생활관)",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "에덴관(여학생생활관)",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/07_%E1%84%8B%E1%85%A6%E1%84%83%E1%85%A6%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/07_%E1%84%8B%E1%85%A6%E1%84%83%E1%85%A6%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\07-에덴관-여학생생활관-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "여자 대학생들을 위한 생활관입니다.",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/07/tour.html",
+      "point": {
+        "lat": 37.6432867295515,
+        "lng": 127.10272364769017
+      }
+    },
+    {
+      "sequence": 8,
+      "name": "외국인교수사택",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "외국인교수사택",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/08_%E1%84%8B%E1%85%AC%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AD%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%84%90%E1%85%A2%E1%86%A8.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/08_%E1%84%8B%E1%85%AC%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AD%E1%84%89%E1%85%AE%E1%84%89%E1%85%A1%E1%84%90%E1%85%A2%E1%86%A8.png",
+          "filePath": "data\\campusmap\\raw\\images\\08-외국인교수사택-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "외국인 교수를 위한 사택입니다.",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/08/tour.html",
+      "point": {
+        "lat": 37.64255746952412,
+        "lng": 127.10210512942378
+      }
+    },
+    {
+      "sequence": 9,
+      "name": "로뎀관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "로뎀관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/09_%E1%84%85%E1%85%A9%E1%84%83%E1%85%A6%E1%86%B7%E1%84%80%E1%85%AA%E1%86%AB_%E1%84%89%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%AE%E1%86%A8.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/09_%E1%84%85%E1%85%A9%E1%84%83%E1%85%A6%E1%86%B7%E1%84%80%E1%85%AA%E1%86%AB_%E1%84%89%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%89%E1%85%AE%E1%86%A8.png",
+          "filePath": "data\\campusmap\\raw\\images\\09-로뎀관-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "로뎀관",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/09/tour.html",
+      "point": {
+        "lat": 37.6431700008301,
+        "lng": 127.10208625964276
+      }
+    },
+    {
+      "sequence": 10,
+      "name": "브니엘관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "브니엘관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/10_%E1%84%87%E1%85%B3%E1%84%82%E1%85%B5%E1%84%8B%E1%85%A6%E1%86%AF%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/10_%E1%84%87%E1%85%B3%E1%84%82%E1%85%B5%E1%84%8B%E1%85%A6%E1%86%AF%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\10-브니엘관-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "대학원생을 위한 생활관입니다.",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/10/tour.html",
+      "point": {
+        "lat": 37.64368,
+        "lng": 127.10228
+      }
+    },
+    {
+      "sequence": 11,
+      "name": "다목적관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "다목적관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/11_%E1%84%83%E1%85%A1%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%89%E1%85%AE%E1%86%AB%E1%84%80%E1%85%B5%E1%84%82%E1%85%A7%E1%86%B7%E1%84%92%E1%85%A9%E1%86%AF.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/11_%E1%84%83%E1%85%A1%E1%84%86%E1%85%A9%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%89%E1%85%AE%E1%86%AB%E1%84%80%E1%85%B5%E1%84%82%E1%85%A7%E1%86%B7%E1%84%92%E1%85%A9%E1%86%AF.png",
+          "filePath": "data\\campusmap\\raw\\images\\11-다목적관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 이종순 기념홀 / SAY",
+        "2층 : 대학교회 / 교회사무실 / 목회실 / Lesson실 / 연습실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 이종순 기념홀 / SAY</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 대학교회 / 교회사무실 / 목회실 / Lesson실 / 연습실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/11/tour.html",
+      "point": {
+        "lat": 37.64366,
+        "lng": 127.10298
+      }
+    },
+    {
+      "sequence": 12,
+      "name": "대학교회",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "대학교회",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/12_%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%E1%84%92%E1%85%AC.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/12_%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AD%E1%84%92%E1%85%AC.png",
+          "filePath": "data\\campusmap\\raw\\images\\12-대학교회-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "교회 / 목회실",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/12/tour.html",
+      "point": {
+        "lat": 37.64386,
+        "lng": 127.10268
+      }
+    },
+    {
+      "sequence": 13,
+      "name": "살렘관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "살렘관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-1.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-1.png",
+          "filePath": "data\\campusmap\\raw\\images\\13-살렘관-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "",
+      "floorPlanHtml": "",
+      "vrLink": null,
+      "point": {
+        "lat": 37.64444,
+        "lng": 127.103
+      }
+    },
+    {
+      "sequence": 14,
+      "name": "생활관식당/교직원식당",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "생활관식당/교직원식당",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/14_%E1%84%86%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%B5%E1%86%B8.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/14_%E1%84%86%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%B5%E1%86%B8.png",
+          "filePath": "data\\campusmap\\raw\\images\\14-생활관식당-교직원식당-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 생활관식당",
+        "2층 : 교직원식당"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 생활관식당</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 교직원식당</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/14/tour.html",
+      "point": {
+        "lat": 37.64408,
+        "lng": 127.10358
+      }
+    },
+    {
+      "sequence": 15,
+      "name": "시온관(남학생생활관)",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "시온관(남학생생활관)",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/15_%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/15_%E1%84%89%E1%85%B5%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\15-시온관-남학생생활관-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "남자 대학생들을 위한 생활관입니다.",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/15/tour.html",
+      "point": {
+        "lat": 37.64416,
+        "lng": 127.10424
+      }
+    },
+    {
+      "sequence": 16,
+      "name": "음악관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "음악관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/16_%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/16_%E1%84%8B%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\16-음악관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 음악학과 사무실(108호) / 멀티미디어강의실 / 합창합주실 / 타악기실 / 피아노앙상블실",
+        "2층 : 실내악실 / 피아노듀오실 / 컴퓨터음악강의실",
+        "3층 : 레슨실 / 강의실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 음악학과 사무실(108호) / 멀티미디어강의실 / 합창합주실 / 타악기실 / 피아노앙상블실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 실내악실 / 피아노듀오실 / 컴퓨터음악강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 레슨실 / 강의실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/16/tour.html",
+      "point": {
+        "lat": 37.64378,
+        "lng": 127.10467
+      }
+    },
+    {
+      "sequence": 17,
+      "name": "대강당(선교 70주년기념관)",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "대강당(선교 70주년기념관)",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/17_%E1%84%83%E1%85%A2%E1%84%80%E1%85%A1%E1%86%BC%E1%84%83%E1%85%A1%E1%86%BC-1.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/17_%E1%84%83%E1%85%A2%E1%84%80%E1%85%A1%E1%86%BC%E1%84%83%E1%85%A1%E1%86%BC-1.png",
+          "filePath": "data\\campusmap\\raw\\images\\17-대강당-선교-70주년기념관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "지하1층 : 음악학과 연습실 / 악기실 / 작곡실 / 첼로실 / 관현악실 / 렛슨실",
+        "1층 : 강당무대 / 강당홀 / 컨서바토리 / 영상선교팀",
+        "2층 : 강당홀 / VOS방송실 / 편집실 / 영상선교팀"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 음악학과 연습실 / 악기실 / 작곡실 / 첼로실 / 관현악실 / 렛슨실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 강당무대 / 강당홀 / 컨서바토리 / 영상선교팀</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 강당홀 / VOS방송실 / 편집실 / 영상선교팀</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/17/tour.html",
+      "point": {
+        "lat": 37.644,
+        "lng": 127.10564
+      }
+    },
+    {
+      "sequence": 18,
+      "name": "제1실습관/창업보육센터",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "제1실습관/창업보육센터",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/18_%E1%84%8C%E1%85%A61%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%E1%84%80%E1%85%AA%E1%86%AB-1.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/18_%E1%84%8C%E1%85%A61%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%E1%84%80%E1%85%AA%E1%86%AB-1.png",
+          "filePath": "data\\campusmap\\raw\\images\\18-제1실습관-창업보육센터-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 자동차구조엔진실습실 / 변전실 / 새시다이나모검사실 / 역학실험실 / 마케트로닉스실험실 / 종합제작실 / 차체실습실 / 엔진다이나모실 / CAD, CAM LAB",
+        "2층 : 카메카트로닉스학과 사무실 / 피아노실 / 전기저자기초실습실 / 카메카트로닉스응용실습실 / 안전관리팀 / 영선팀 / 환경미화팀",
+        "3층 : 전산교육실 운영 사무실 / 전산교육실 (308~310호) / 과학, 창작미술실 / 유아교육과 사무실 / 유아영양실습실",
+        "4층 : 컴퓨터학부 사무실(401호) / 컴퓨터학부서버실습실 / 디지털 광고시스템실 / 인쇄영상광고 시스템실 / 컴퓨터학부 프로그래밍 실습실 / 컴퓨터학부 프로젝트 실습실",
+        "5층 : 에이엠디 랩 / (주)위엔테크 / 씨드런 / 중앙이앤씨 / 애몰라이트 / 누림온 / 그라피코스 / (주)브라보라이프 / (주)알앤에프 / 오픈버스(주) / nmpartners / Rfcookie / (주)레독스테크 / (주)누리그림 / (주)케이크테라피 / (주)엔엠웍스 / 에이치텍 / 에쓰씨테크"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 자동차구조엔진실습실 / 변전실 / 새시다이나모검사실 / 역학실험실 / 마케트로닉스실험실 / 종합제작실 / 차체실습실 / 엔진다이나모실 / CAD, CAM LAB</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 카메카트로닉스학과 사무실 / 피아노실 / 전기저자기초실습실 / 카메카트로닉스응용실습실 / 안전관리팀 / 영선팀 / 환경미화팀</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 전산교육실 운영 사무실 / 전산교육실 (308~310호) / 과학, 창작미술실 / 유아교육과 사무실 / 유아영양실습실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 컴퓨터학부 사무실(401호) / 컴퓨터학부서버실습실 / 디지털 광고시스템실 / 인쇄영상광고 시스템실 / 컴퓨터학부 프로그래밍 실습실 / 컴퓨터학부 프로젝트 실습실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">5층 : 에이엠디 랩 / (주)위엔테크 / 씨드런 / 중앙이앤씨 / 애몰라이트 / 누림온 / 그라피코스 / (주)브라보라이프 / (주)알앤에프 / 오픈버스(주) / nmpartners / Rfcookie / (주)레독스테크 / (주)누리그림 / (주)케이크테라피 / (주)엔엠웍스 / 에이치텍 / 에쓰씨테크</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/18/tour.html",
+      "point": {
+        "lat": 37.64446,
+        "lng": 127.1055
+      }
+    },
+    {
+      "sequence": 19,
+      "name": "디자인관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "디자인관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/19_%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB-1.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/19_%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB-1.png",
+          "filePath": "data\\campusmap\\raw\\images\\19-디자인관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "지하1층 : 도예실 / 신체표현실 / 드림케팅 / Think-factory’s room / 경영학과 고시반 / 유통마케팅 트랙실 / 경영회계 트랙실 / 겨영정보 트랙실",
+        "1층 : 커뮤니케이션디자인학과 사무실(101호) / 건축설계스튜디오 / 포토스튜디오 / 일러스트스튜디오 / 시각디자인작업실 / 컴퓨터크래픽디자인실 / 캐릭터디자인실",
+        "2층 : 건축설계스튜디오 / 건축모형실 / 건축자율실기실 / 건축CAD실 / 건축의장실 / 건축기자재준비실 / 건축학과 사무실(202호) / 건축연구소"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 도예실 / 신체표현실 / 드림케팅 / Think-factory’s room / 경영학과 고시반 / 유통마케팅 트랙실 / 경영회계 트랙실 / 겨영정보 트랙실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 커뮤니케이션디자인학과 사무실(101호) / 건축설계스튜디오 / 포토스튜디오 / 일러스트스튜디오 / 시각디자인작업실 / 컴퓨터크래픽디자인실 / 캐릭터디자인실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 건축설계스튜디오 / 건축모형실 / 건축자율실기실 / 건축CAD실 / 건축의장실 / 건축기자재준비실 / 건축학과 사무실(202호) / 건축연구소</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/19/tour.html",
+      "point": {
+        "lat": 37.64443,
+        "lng": 127.106
+      }
+    },
+    {
+      "sequence": 20,
+      "name": "실험동물실",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "실험동물실",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/20_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%92%E1%85%A5%E1%86%B7%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%E1%84%89%E1%85%B5%E1%86%AF-1.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/20_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%92%E1%85%A5%E1%86%B7%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%E1%84%89%E1%85%B5%E1%86%AF-1.png",
+          "filePath": "data\\campusmap\\raw\\images\\20-실험동물실-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/20/tour.html",
+      "point": {
+        "lat": 37.64476,
+        "lng": 127.10621
+      }
+    },
+    {
+      "sequence": 21,
+      "name": "목공실습실",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "목공실습실",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/21_%E1%84%86%E1%85%A9%E1%86%A8%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%E1%84%89%E1%85%B5%E1%86%AF.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/21_%E1%84%86%E1%85%A9%E1%86%A8%E1%84%80%E1%85%A9%E1%86%BC%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8%E1%84%89%E1%85%B5%E1%86%AF.png",
+          "filePath": "data\\campusmap\\raw\\images\\21-목공실습실-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/21/tour.html",
+      "point": {
+        "lat": 37.64476,
+        "lng": 127.10656
+      }
+    },
+    {
+      "sequence": 22,
+      "name": "온실",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "온실",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/22_%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AF.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/22_%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%89%E1%85%B5%E1%86%AF.png",
+          "filePath": "data\\campusmap\\raw\\images\\22-온실-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/22/tour.html",
+      "point": {
+        "lat": 37.64448,
+        "lng": 127.106664
+      }
+    },
+    {
+      "sequence": 23,
+      "name": "아트 & 디자인관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "아트 & 디자인관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/23_%E1%84%8B%E1%85%A1%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/23_%E1%84%8B%E1%85%A1%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A2%E1%86%AB%E1%84%83%E1%85%B5%E1%84%8C%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\23-아트-디자인관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 미술컨텐츠학과 강의실",
+        "2층 : 미술컨텐츠학과 사무실(205호) / 교환실(전기·통신팀) / 강의실 / 미술컨텐츠학과실습실",
+        "3층 : 미술컨텐츠학과 실습실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 미술컨텐츠학과 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 미술컨텐츠학과 사무실(205호) / 교환실(전기·통신팀) / 강의실 / 미술컨텐츠학과실습실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 미술컨텐츠학과 실습실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/23/tour.html",
+      "point": {
+        "lat": 37.644177,
+        "lng": 127.106098
+      }
+    },
+    {
+      "sequence": 24,
+      "name": "중앙도서관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "중앙도서관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/24_%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/24_%E1%84%8C%E1%85%AE%E1%86%BC%E1%84%8B%E1%85%A1%E1%86%BC%E1%84%83%E1%85%A9%E1%84%89%E1%85%A5%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\24-중앙도서관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "지하1층 : 제1열람실 / 제2열람실 / 스터디룸 / 박물관 / STAIRCASE",
+        "1층 : 연속간행물실 / 정보검색참고자료실 / 보건복지자료실 / 수서정리실 / 도서관장실 / 우리은행 삼육대출장소",
+        "2층 : 자료실 / 멀티미디어실 / 열람실 / 휴게실",
+        "3층 : 자료실 / 학술정보검색실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 제1열람실 / 제2열람실 / 스터디룸 / 박물관 / STAIRCASE</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 연속간행물실 / 정보검색참고자료실 / 보건복지자료실 / 수서정리실 / 도서관장실 / 우리은행 삼육대출장소</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 자료실 / 멀티미디어실 / 열람실 / 휴게실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 자료실 / 학술정보검색실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/24/tour.html",
+      "point": {
+        "lat": 37.64321,
+        "lng": 127.106587
+      }
+    },
+    {
+      "sequence": 25,
+      "name": "에스라관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "에스라관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/25_%E1%84%8B%E1%85%A6%E1%84%89%E1%85%B3%E1%84%85%E1%85%A1%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/25_%E1%84%8B%E1%85%A6%E1%84%89%E1%85%B3%E1%84%85%E1%85%A1%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\25-에스라관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "지하1층 : 강의실",
+        "1층 : 교양대학 사무실(111호) / 자유전공학부 사무실(103호) / 사회봉사단 / 강의실",
+        "2층 : e-learning 강의실",
+        "3층 : 보건관리학과 사무실(304호) / 실험실습실 / 사회봉사단 / 강의실",
+        "4층 : 강의실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 교양대학 사무실(111호) / 자유전공학부 사무실(103호) / 사회봉사단 / 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : e-learning 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 보건관리학과 사무실(304호) / 실험실습실 / 사회봉사단 / 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 강의실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/25/tour.html",
+      "point": {
+        "lat": 37.643638,
+        "lng": 127.107058
+      }
+    },
+    {
+      "sequence": 26,
+      "name": "제1과학관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "제1과학관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/26_%E1%84%8C%E1%85%A61%E1%84%80%E1%85%AA%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/26_%E1%84%8C%E1%85%A61%E1%84%80%E1%85%AA%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\26-제1과학관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "지하1층 : 식품영양학과 조리실습실 / 다량조리실 / 식품영양학과 시식실 / 생물학과 표본실 / 조리실습실 / 고체화학연구실",
+        "1층 : 위드바이오 / 식품영양학과 실험실 / 영양생화학 실험실 / 식품여양학과 사무실 / 식영과 조교실 / 공통실험실",
+        "2층 : 일반화학 실험실 / 고분자화학연구실 / 분석화학, 물리화학 실험실 / 무기화학연구실 / 유기화학 실험실 / 유기,무기화학 실험실 / 분석화학 연구실 / 물리, 환경화학 실험실",
+        "3층 : 의명신경과학연구소 / 기초의약과학과사무실 / 보건관리학과 교육실 / 기초의약과학과 / SPF동물실 / 동물사육연구실 / 행동과학연구실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 식품영양학과 조리실습실 / 다량조리실 / 식품영양학과 시식실 / 생물학과 표본실 / 조리실습실 / 고체화학연구실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 위드바이오 / 식품영양학과 실험실 / 영양생화학 실험실 / 식품여양학과 사무실 / 식영과 조교실 / 공통실험실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 일반화학 실험실 / 고분자화학연구실 / 분석화학, 물리화학 실험실 / 무기화학연구실 / 유기화학 실험실 / 유기,무기화학 실험실 / 분석화학 연구실 / 물리, 환경화학 실험실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 의명신경과학연구소 / 기초의약과학과사무실 / 보건관리학과 교육실 / 기초의약과학과 / SPF동물실 / 동물사육연구실 / 행동과학연구실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/26/tour.html",
+      "point": {
+        "lat": 37.64406,
+        "lng": 127.10696
+      }
+    },
+    {
+      "sequence": 27,
+      "name": "제2과학관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "제2과학관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/27_%E1%84%8C%E1%85%A62%E1%84%80%E1%85%AA%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/27_%E1%84%8C%E1%85%A62%E1%84%80%E1%85%AA%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\27-제2과학관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 동물자원학전공 사무실(104호) / AMC한국연합회미디어센터 / 수치료실 / 국제세미나실",
+        "2층 : 동물번식학실 / 동물유전자원연구센터 / (주)뮤보다 / 가축영양사료분석실 / 유가공학실험실 / 발생공학실험실 / 동물생명공학전공 사무실(209호)",
+        "3층 : 일반생물학 실험실 / 공통과학기기실 / 일반생물학 사무실 / 조경제도실 / 잔디토양분석실",
+        "4층 : 생명과학실험실 / 대학원 실험실 / 제1연구실 / 제2연구실 / 제3연구실 / 제4연구실 / 생명과학과 사무실(407호)",
+        "5층 : 온실 / 환경디자인원예학과 사무실(505호) / 환경디자인원예학과 실습실 / 컴퓨터실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 동물자원학전공 사무실(104호) / AMC한국연합회미디어센터 / 수치료실 / 국제세미나실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 동물번식학실 / 동물유전자원연구센터 / (주)뮤보다 / 가축영양사료분석실 / 유가공학실험실 / 발생공학실험실 / 동물생명공학전공 사무실(209호)</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 일반생물학 실험실 / 공통과학기기실 / 일반생물학 사무실 / 조경제도실 / 잔디토양분석실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 생명과학실험실 / 대학원 실험실 / 제1연구실 / 제2연구실 / 제3연구실 / 제4연구실 / 생명과학과 사무실(407호)</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">5층 : 온실 / 환경디자인원예학과 사무실(505호) / 환경디자인원예학과 실습실 / 컴퓨터실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/27/tour.html",
+      "point": {
+        "lat": 37.64363,
+        "lng": 127.107613
+      }
+    },
+    {
+      "sequence": 28,
+      "name": "어린이집(아름동)",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "어린이집(아름동)",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/28_%E1%84%8B%E1%85%A5%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%A1%E1%84%85%E1%85%B3%E1%86%B7%E1%84%83%E1%85%A9%E1%86%BC.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/28_%E1%84%8B%E1%85%A5%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%86%B8%E1%84%8B%E1%85%A1%E1%84%85%E1%85%B3%E1%86%B7%E1%84%83%E1%85%A9%E1%86%BC.png",
+          "filePath": "data\\campusmap\\raw\\images\\28-어린이집-아름동-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "",
+      "floorPlanHtml": "",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/282930/tour.html",
+      "point": {
+        "lat": 37.64358,
+        "lng": 127.10812
+      }
+    },
+    {
+      "sequence": 29,
+      "name": "식품영양학과 실습실",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "식품영양학과 실습실",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-3.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-3.png",
+          "filePath": "data\\campusmap\\raw\\images\\29-식품영양학과-실습실-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "",
+      "floorPlanHtml": "",
+      "vrLink": null,
+      "point": {
+        "lat": 37.64376,
+        "lng": 127.10794
+      }
+    },
+    {
+      "sequence": 30,
+      "name": "학생상담센터",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "학생상담센터",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-4.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-4.png",
+          "filePath": "data\\campusmap\\raw\\images\\30-학생상담센터-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "",
+      "floorPlanHtml": "",
+      "vrLink": null,
+      "point": {
+        "lat": 37.64376,
+        "lng": 127.1083
+      }
+    },
+    {
+      "sequence": 31,
+      "name": "어린이집(다움동)",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "어린이집(다움동)",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-5.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/no_image-5.png",
+          "filePath": "data\\campusmap\\raw\\images\\31-어린이집-다움동-01.png"
+        }
+      ],
+      "floorTextCandidates": [],
+      "summary": "",
+      "floorPlanHtml": "",
+      "vrLink": null,
+      "point": {
+        "lat": 37.64362,
+        "lng": 127.10842
+      }
+    },
+    {
+      "sequence": 32,
+      "name": "평생교육원/유치원",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "평생교육원/유치원",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/32_%E1%84%91%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%AD%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%8B%E1%85%B2%E1%84%8E%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/32_%E1%84%91%E1%85%A7%E1%86%BC%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%AD%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB_%E1%84%8B%E1%85%B2%E1%84%8E%E1%85%B5%E1%84%8B%E1%85%AF%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\32-평생교육원-유치원-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 유치원",
+        "2층 : 평생교육원"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 유치원</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 평생교육원</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/32/tour.html",
+      "point": {
+        "lat": 37.643108,
+        "lng": 127.10825
+      }
+    },
+    {
+      "sequence": 33,
+      "name": "제3과학관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "제3과학관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/33_%E1%84%8C%E1%85%A63%E1%84%80%E1%85%AA%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/33_%E1%84%8C%E1%85%A63%E1%84%80%E1%85%AA%E1%84%92%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\33-제3과학관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "지하1층 : 우체국 / 주차장",
+        "1층 : 물리치료학과 사무실 / 물리치료실습실(신경, 기본, 노인, 근골격) / 조경미화 / 대학원공통실험실 / 대학원연구실 / 근전도 및 보행분석실 / 생역학실험실 / 심폐 및 TMJ실험실",
+        "2층 : 간호학과 사무실 / 멀티미디어 자율학습실 / 문제중심학습실 / 기초과학실 / 간호학실습실 / 시뮬레이션학습실",
+        "3층 : 천연물화학연구실 / 공통실험실 / 표본실 / 증류수실 / 국시실 / 임상약학연구실 / 생약학연구실 / 약학과 사무실",
+        "4층 : 생화학연구실 / 역제학연구실 / 병태생리학연구실 / 면역학연구실 / 세포배양실 / 실습약국 / 미생물학연구실 / 약품분석화학연구실 / 생물약제학연구실 / 예방약학연구실 / 미생물학대학원연구실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 우체국 / 주차장</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 물리치료학과 사무실 / 물리치료실습실(신경, 기본, 노인, 근골격) / 조경미화 / 대학원공통실험실 / 대학원연구실 / 근전도 및 보행분석실 / 생역학실험실 / 심폐 및 TMJ실험실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 간호학과 사무실 / 멀티미디어 자율학습실 / 문제중심학습실 / 기초과학실 / 간호학실습실 / 시뮬레이션학습실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 천연물화학연구실 / 공통실험실 / 표본실 / 증류수실 / 국시실 / 임상약학연구실 / 생약학연구실 / 약학과 사무실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 생화학연구실 / 역제학연구실 / 병태생리학연구실 / 면역학연구실 / 세포배양실 / 실습약국 / 미생물학연구실 / 약품분석화학연구실 / 생물약제학연구실 / 예방약학연구실 / 미생물학대학원연구실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/33/tour.html",
+      "point": {
+        "lat": 37.64296,
+        "lng": 127.1087
+      }
+    },
+    {
+      "sequence": 34,
+      "name": "뉴스타트센터",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "뉴스타트센터",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/34_%E1%84%82%E1%85%B2%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%B3%E1%84%89%E1%85%A6%E1%86%AB%E1%84%90%E1%85%A5.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/34_%E1%84%82%E1%85%B2%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%90%E1%85%B3%E1%84%89%E1%85%A6%E1%86%AB%E1%84%90%E1%85%A5.png",
+          "filePath": "data\\campusmap\\raw\\images\\34-뉴스타트센터-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 인성교육원",
+        "2층 : 학생공간 / 세미나실",
+        "3층 : 학생공간 / 세미나실"
+      ],
+      "summary": "2014년 12월 4일 준공. 약 30억의 예산을 투입해 건축한 뉴스타트센터는 연면적 1456㎡ (약440평)규모의 반 지하 1층, 지상 3층으로 이뤄져 있으며 96명을 수용할 수 있도록 지어졌다",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 인성교육원</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 학생공간 / 세미나실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 학생공간 / 세미나실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/34/tour.html",
+      "point": {
+        "lat": 37.64182,
+        "lng": 127.10888
+      }
+    },
+    {
+      "sequence": 35,
+      "name": "다니엘관/요한관/박물관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "다니엘관/요한관/박물관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/35_%E1%84%83%E1%85%A1%E1%84%82%E1%85%B5%E1%84%8B%E1%85%A6%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/35_%E1%84%83%E1%85%A1%E1%84%82%E1%85%B5%E1%84%8B%E1%85%A6%E1%86%AF%E1%84%8B%E1%85%AD%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\35-다니엘관-요한관-박물관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "지하2층 : 주차장",
+        "지하1층 : 대강의실 / 주차장",
+        "1층 : 국제문화교육원 / 소강의실 / 외국인교수연구실",
+        "2층 : 교육혁신팀 / 소강의실 / 대강의실",
+        "3층 : 중강의실 / 대강의실",
+        "4층 : 중강의실 / 대강의실",
+        "5층 : 교수학습개발센터 / 중강의실 / 세계선교센터 / 미디어선교센터 / 외래교수실 / 명예교수실",
+        "지하1층 : 홍명기홀",
+        "1층 : ICEC원장실 / 소강의실",
+        "2층 : 중강의실 / 교육미디어지원팀",
+        "3층 : 소강의실 / 중강의실 / 외국인학생 휴게실",
+        "4층 : 소강의실 / 대강의실",
+        "5층 : 교수연구실, 커뮤니티센터",
+        "지하1층 : 기획전시실 / 세미나실",
+        "1층 : 학예연구실",
+        "2층 : 박물관 - 기증유물실",
+        "3층 : 박물관 - 성경자료실",
+        "4층 : 박물관 - 성경고고학자료실",
+        "5층 : 박물관 - 특별전시실"
+      ],
+      "summary": "2012년 신축건물로 우리대학의 로고를 응용한 랜드마크 건물입니다.",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><h5 class=\"md_sts_tit mb5\">다니엘관</h5><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하2층 : 주차장</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 대강의실 / 주차장</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 국제문화교육원 / 소강의실 / 외국인교수연구실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 교육혁신팀 / 소강의실 / 대강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 중강의실 / 대강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 중강의실 / 대강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">5층 : 교수학습개발센터 / 중강의실 / 세계선교센터 / 미디어선교센터 / 외래교수실 / 명예교수실</span></li></ul></div><div class=\"map_place_contbx mb15\"><h5 class=\"md_sts_tit mb5\">요한관</h5><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 홍명기홀</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : ICEC원장실 / 소강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 중강의실 / 교육미디어지원팀</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 소강의실 / 중강의실 / 외국인학생 휴게실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 소강의실 / 대강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">5층 : 교수연구실, 커뮤니티센터</span></li></ul></div><div class=\"map_place_contbx mb15\"><h5 class=\"md_sts_tit mb5\">박물관</h5><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하1층 : 기획전시실 / 세미나실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 학예연구실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 박물관 - 기증유물실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 박물관 - 성경자료실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 박물관 - 성경고고학자료실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">5층 : 박물관 - 특별전시실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/35/tour.html",
+      "point": {
+        "lat": 37.64228,
+        "lng": 127.1078
+      }
+    },
+    {
+      "sequence": 36,
+      "name": "바울관",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "바울관",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/36_%E1%84%87%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/36_%E1%84%87%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%AF%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\36-바울관-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "지하 1층 : 구내서점 / 문구점 / 프랜들리(식당) / 빵집 / 꽃집",
+        "1층 : 학생지원처 / 학사지원실 / 상담지원팀 / 취업진로지원센터 / 모의면접실 / 상담실 / 장애학생휴게실",
+        "2층 : 경영학과 사무실(201호) / 경영정보학과 사무실(201호) / 강의실",
+        "3층 : 중국어학실 / 유비쿼터스실 / 강의실",
+        "4층 : 중국어학과 사무실(406호) / 일본어학과 사무실(406호) / 실습실 / 강의실"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">지하 1층 : 구내서점 / 문구점 / 프랜들리(식당) / 빵집 / 꽃집</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 학생지원처 / 학사지원실 / 상담지원팀 / 취업진로지원센터 / 모의면접실 / 상담실 / 장애학생휴게실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 경영학과 사무실(201호) / 경영정보학과 사무실(201호) / 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 중국어학실 / 유비쿼터스실 / 강의실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 중국어학과 사무실(406호) / 일본어학과 사무실(406호) / 실습실 / 강의실</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/36/tour.html",
+      "point": {
+        "lat": 37.64272,
+        "lng": 127.107107
+      }
+    },
+    {
+      "sequence": 37,
+      "name": "학생회관/대학일자리본부",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "학생회관/대학일자리본부",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/37_%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A2%E1%86%BC%E1%84%92%E1%85%AC%E1%84%80%E1%85%AA%E1%86%AB_%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%87%E1%85%AE.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/37_%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%A2%E1%86%BC%E1%84%92%E1%85%AC%E1%84%80%E1%85%AA%E1%86%AB_%E1%84%83%E1%85%A2%E1%84%92%E1%85%A1%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A1%E1%84%85%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%87%E1%85%AE.png",
+          "filePath": "data\\campusmap\\raw\\images\\37-학생회관-대학일자리본부-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 매점(CU편의점) / SU Lounge(학생식당) / 우리은행 현금인출기",
+        "2층 : 대학총학생회 / 취업지원팀 / 예비군대대 / 여학생수면실 / 학생휴게실 / 안경점 / 여학생부장실",
+        "3층 : 총대의원회 / 졸업준비위원회 / 학회연합회 / 영자신문사 / 신문사 / 각 동아리방",
+        "4층 : 동아리연합회 / 각 동아리방"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 매점(CU편의점) / SU Lounge(학생식당) / 우리은행 현금인출기</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 대학총학생회 / 취업지원팀 / 예비군대대 / 여학생수면실 / 학생휴게실 / 안경점 / 여학생부장실</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 총대의원회 / 졸업준비위원회 / 학회연합회 / 영자신문사 / 신문사 / 각 동아리방</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">4층 : 동아리연합회 / 각 동아리방</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/37/tour.html",
+      "point": {
+        "lat": 37.6421,
+        "lng": 127.10708
+      }
+    },
+    {
+      "sequence": 38,
+      "name": "체육관(스포츠센터)",
+      "url": "https://www.syu.ac.kr/about-sahmyook/college-guide/campusmap/",
+      "detailTitle": "체육관(스포츠센터)",
+      "detailError": null,
+      "imageUrls": [
+        "https://www.syu.ac.kr/wp-content/uploads/2019/11/38_%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png"
+      ],
+      "localImages": [
+        {
+          "imageUrl": "https://www.syu.ac.kr/wp-content/uploads/2019/11/38_%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%B2%E1%86%A8%E1%84%80%E1%85%AA%E1%86%AB.png",
+          "filePath": "data\\campusmap\\raw\\images\\38-체육관-스포츠센터-01.png"
+        }
+      ],
+      "floorTextCandidates": [
+        "1층 : 수영장 (길이 25m, 넓이 10m, 5레인) - 남ㆍ여 탈의실 및 샤워실, 체력측정실, 운동처방실, 체력관리실, 시청각실, 탁구장, 무도관",
+        "2층 : 주경기장 (농구코트 1면, 배구코트 1면, 배드민턴코트 4면), 스쿼시장 (코트 3면), 남ㆍ여 탈의실 및 샤워실, 등록실, 관리지원실, 보건소",
+        "3층 : 주경기장 관람석 (370석)"
+      ],
+      "summary": "",
+      "floorPlanHtml": "<div class=\"map_place_contbx mb15\"><ul><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">1층 : 수영장 (길이 25m, 넓이 10m, 5레인) - 남ㆍ여 탈의실 및 샤워실, 체력측정실, 운동처방실, 체력관리실, 시청각실, 탁구장, 무도관</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">2층 : 주경기장 (농구코트 1면, 배구코트 1면, 배드민턴코트 4면), 스쿼시장 (코트 3면), 남ㆍ여 탈의실 및 샤워실, 등록실, 관리지원실, 보건소</span></li><li class=\"md_txt_bullet\"><span class=\"bullet\">•</span><span class=\"text\">3층 : 주경기장 관람석 (370석)</span></li></ul></div>",
+      "vrLink": "https://www.syu.ac.kr/wp-content/themes/syu-main/vrtour/panorama/38/tour.html",
+      "point": {
+        "lat": 37.64145,
+        "lng": 127.10667
+      }
+    }
+  ]
+}
